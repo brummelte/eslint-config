@@ -37,5 +37,6 @@ module.exports = {
             ignoreTemplateLiterals: true,
         }],
         'react/jsx-filename-extension': ['error', { extensions: ['.js', '.jsx'] }],
+        'react/jsx-indent': ['error', 4],
     },
 };
