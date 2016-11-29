@@ -39,6 +39,9 @@ module.exports = {
         'import/order': ['error', {
             groups: ['builtin', 'external', 'parent', 'sibling', 'index'],
         }],
+        'import/named': 'error',
+        'import/default': 'error',
+        'import/namespace': 'error',
         'react/jsx-filename-extension': ['error', { extensions: ['.js', '.jsx'] }],
         'react/jsx-indent': ['error', 4],
     },
