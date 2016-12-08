@@ -23,7 +23,6 @@ module.exports = {
                 body: 1,
             },
         }],
-        'valid-jsdoc': 'error',
         strict: 'error',
         'no-sync': 'error',
         'no-inline-comments': 'error',
