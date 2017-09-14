@@ -15,12 +15,17 @@ module.exports = {
                 FunctionExpression: { parameters: 1, body: 1 },
             },
         ],
+        // Allow same precedence until https://github.com/airbnb/javascript/issues/1071 is solved
+        'no-mixed-operators': ['error', { allowSamePrecedence: true }],
         strict: 'error',
         'no-sync': 'error',
         'no-inline-comments': 'error',
         'no-use-before-define': ['error', 'nofunc'],
         'no-restricted-syntax': ['error', 'ForInStatement', 'LabeledStatement', 'WithStatement'],
-        'import/order': ['error', { groups: ['builtin', 'external', 'parent', 'sibling', 'index'] }],
+        'import/order': [
+            'error',
+            { groups: ['builtin', 'external', 'parent', 'sibling', 'index'] },
+        ],
         'import/named': 'error',
         'import/default': 'error',
         'import/namespace': 'error',
