@@ -20,12 +20,6 @@ module.exports = {
         'no-inline-comments': 'error',
         'no-use-before-define': ['error', 'nofunc'],
         'no-restricted-syntax': ['error', 'ForInStatement', 'LabeledStatement', 'WithStatement'],
-        'max-len': [
-            'error',
-            150,
-            4,
-            { ignoreUrls: true, ignoreComments: false, ignoreRegExpLiterals: true, ignoreStrings: true, ignoreTemplateLiterals: true },
-        ],
         'import/order': ['error', { groups: ['builtin', 'external', 'parent', 'sibling', 'index'] }],
         'import/named': 'error',
         'import/default': 'error',
