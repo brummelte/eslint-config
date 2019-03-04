@@ -1,3 +1,4 @@
+/* eslint-disable filenames/no-index */
 module.exports = {
     parser: 'babel-eslint',
     parserOptions: {
@@ -29,23 +30,50 @@ module.exports = {
                 FunctionExpression: { parameters: 1, body: 1 },
             },
         ],
-        // Allow same precedence until https://github.com/airbnb/javascript/issues/1071 is solved
-        'no-mixed-operators': ['error', { allowSamePrecedence: true }],
-        strict: 'error',
-        'no-sync': 'error',
-        'no-inline-comments': 'error',
-        'no-use-before-define': ['error', 'nofunc'],
-        'no-restricted-syntax': ['error', 'ForInStatement', 'LabeledStatement', 'WithStatement'],
+        strict: ['error'],
+        'filenames/match-exported': ['warn'],
+        'filenames/match-regex': [
+            'error',
+            '^([A-Za-z]([A-Za-z0-9])*(\\.test|\\.test\\.skip|\\.stories)?)|(webpack.config.babel)$',
+        ],
+        'filenames/no-index': ['warn'],
+        'function-paren-newline': ['error', 'consistent'],
+        'import/default': ['error'],
+        'import/named': ['error'],
+        'import/namespace': ['error'],
+        'import/no-anonymous-default-export': ['error'],
+        'import/no-extraneous-dependencies': ['error'],
         'import/order': [
             'error',
             { groups: ['builtin', 'external', 'parent', 'sibling', 'index'] },
         ],
-        'import/named': 'error',
-        'import/default': 'error',
-        'import/namespace': 'error',
+        'no-inline-comments': ['error'],
+        'no-restricted-syntax': ['error', 'ForInStatement', 'LabeledStatement', 'WithStatement'],
+        'no-sync': ['error'],
+        'no-use-before-define': ['error', 'nofunc'],
+        'react-hooks/exhaustive-deps': ['warn'],
+        'react-hooks/rules-of-hooks': ['error'],
+        'react/display-name': ['off'],
         'react/jsx-filename-extension': ['error', { extensions: ['.js', '.jsx'] }],
-        'react/jsx-indent': ['error', 4],
         'react/jsx-indent-props': ['error', 4],
-        'function-paren-newline': ['error', 'consistent'],
+        'react/jsx-indent': ['error', 4],
+        'react/jsx-key': ['off'],
+        'react/no-array-index-key': ['warn'],
+        'react/prop-types': ['warn', { skipUndeclared: true }],
+        'react/require-default-props': ['off'],
+        'react/void-dom-elements-no-children': ['error'],
     },
+    overrides: [
+        {
+            files: [
+                '*.test.js',
+                'webpack.config.babel.js',
+                'webpack.config.js',
+                'webpack.config.ava.js',
+            ],
+            rules: {
+                'import/no-extraneous-dependencies': ['error', { devDependencies: true }],
+            },
+        },
+    ],
 };
