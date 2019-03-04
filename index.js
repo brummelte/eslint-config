@@ -1,7 +1,21 @@
 module.exports = {
     parser: 'babel-eslint',
-    extends: ['airbnb', 'plugin:ava/recommended'],
-    plugins: ['import', 'ava'],
+    parserOptions: {
+        ecmaVersion: 2019,
+        sourceType: 'module',
+        impliedStrict: true,
+        ecmaFeatures: {
+            jsx: true,
+        },
+    },
+    extends: [
+        'eslint:recommended',
+        'plugin:react/recommended',
+        'plugin:ava/recommended',
+        'plugin:jsx-a11y/recommended',
+    ],
+    plugins: ['react', 'ava', 'import', 'jsx-a11y', 'filenames', 'react-hooks'],
+    env: { es6: true, node: true },
     rules: {
         indent: [
             'error',
