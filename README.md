@@ -1,13 +1,13 @@
 # eslint-config
 
-This is my [ESLint](http://eslint.org) config. It is based on the [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript).
+This is my [ESLint](http://eslint.org) config.
 
 ## .eslintrc.js
+
 ```js
 module.exports = {
-    extends: '@brummelte/eslint-config',
+    extends: '@brummelte',
     env: {
-        node: true,
         es6: true,
     },
 };
