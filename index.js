@@ -19,6 +19,10 @@ module.exports = {
     ],
     plugins: ['react', 'ava', 'import', 'jsx-a11y', 'filenames', 'react-hooks'],
     env: { es6: true, node: true },
+    settings: {
+        "import/ignore": ["node_modules"],
+        react: { version: "detect" },
+    },
     rules: {
         strict: ['error'],
         'filenames/match-exported': ['warn'],
