@@ -14,14 +14,16 @@ module.exports = {
         'plugin:react/recommended',
         'plugin:ava/recommended',
         'plugin:jsx-a11y/recommended',
+        'plugin:import/errors',
+        'plugin:import/warnings',
         'prettier',
         'prettier/react',
     ],
     plugins: ['react', 'ava', 'import', 'jsx-a11y', 'filenames', 'react-hooks'],
     env: { es6: true, node: true },
     settings: {
-        "import/ignore": ["node_modules"],
-        react: { version: "detect" },
+        'import/ignore': ['node_modules'],
+        react: { version: 'detect' },
     },
     rules: {
         strict: ['error'],
@@ -31,9 +33,6 @@ module.exports = {
             '^([A-Za-z]([A-Za-z0-9])*(\\.test|\\.test\\.skip|\\.stories)?)|(webpack.config.babel)$',
         ],
         'filenames/no-index': ['warn'],
-        'import/default': ['error'],
-        'import/named': ['error'],
-        'import/namespace': ['error'],
         'import/no-anonymous-default-export': ['error'],
         'import/no-extraneous-dependencies': ['error'],
         'import/order': [
