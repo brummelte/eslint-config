@@ -16,6 +16,7 @@ module.exports = {
         'plugin:jsx-a11y/recommended',
         'plugin:import/errors',
         'plugin:import/warnings',
+        'plugin:jest/recommended',
         'prettier',
         'prettier/react',
     ],
