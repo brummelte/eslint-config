@@ -5,9 +5,7 @@ module.exports = {
         ecmaVersion: 2019,
         sourceType: 'module',
         impliedStrict: true,
-        ecmaFeatures: {
-            jsx: true,
-        },
+        ecmaFeatures: { jsx: true },
     },
     extends: [
         'eslint:recommended',
@@ -17,7 +15,7 @@ module.exports = {
         'plugin:import/errors',
         'plugin:import/warnings',
         'plugin:jest/recommended',
-        'prettier',
+        'plugin:prettier/recommended',
         'prettier/react',
     ],
     plugins: ['react', 'ava', 'import', 'jsx-a11y', 'filenames', 'react-hooks'],
@@ -50,6 +48,10 @@ module.exports = {
         'prefer-const': ['error'],
         'prefer-destructuring': ['error'],
         'prefer-template': ['error'],
+        'prettier/prettier': [
+            'error',
+            { singleQuote: true, tabWidth: 4, printWidth: 100, trailingComma: 'all' },
+        ],
         'react-hooks/exhaustive-deps': ['error'],
         'react-hooks/rules-of-hooks': ['error'],
         'react/display-name': ['off'],
@@ -70,9 +72,7 @@ module.exports = {
                 'webpack.config.js',
                 'webpack.config.ava.js',
             ],
-            rules: {
-                'import/no-extraneous-dependencies': ['error', { devDependencies: true }],
-            },
+            rules: { 'import/no-extraneous-dependencies': ['error', { devDependencies: true }] },
         },
     ],
 };
