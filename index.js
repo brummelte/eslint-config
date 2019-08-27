@@ -40,6 +40,7 @@ module.exports = {
         ],
         'no-inline-comments': ['error'],
         'no-restricted-syntax': ['error', 'ForInStatement', 'LabeledStatement', 'WithStatement'],
+        'no-return-await': ['error'],
         'no-shadow': ['error'],
         'no-sync': ['error'],
         'no-use-before-define': ['error', 'nofunc'],
