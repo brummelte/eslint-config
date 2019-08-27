@@ -62,6 +62,7 @@ module.exports = {
         'react/no-array-index-key': ['warn'],
         'react/prop-types': ['warn', { skipUndeclared: true }],
         'react/require-default-props': ['off'],
+        'react/self-closing-comp': ['error'],
         'react/void-dom-elements-no-children': ['error'],
         strict: ['error'],
     },
