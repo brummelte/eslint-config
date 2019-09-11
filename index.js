@@ -29,7 +29,7 @@ module.exports = {
         'filenames/match-exported': ['warn'],
         'filenames/match-regex': [
             'error',
-            '^([A-Za-z]([A-Za-z0-9])*(\\.test|\\.test\\.skip|\\.stories)?)|(webpack.config.babel)$',
+            '^([A-Za-z\\.]([A-Za-z0-9])*(\\.test|\\.test\\.skip|\\.stories)?)|(webpack.config.babel)$',
         ],
         'filenames/no-index': ['warn'],
         'import/no-anonymous-default-export': ['error'],
