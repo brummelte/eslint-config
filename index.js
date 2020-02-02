@@ -1,6 +1,6 @@
 /* eslint-disable filenames/no-index */
 module.exports = {
-    parser: 'babel-eslint',
+    parser: require.resolve('babel-eslint'),
     parserOptions: {
         ecmaVersion: 2019,
         sourceType: 'module',
@@ -8,17 +8,17 @@ module.exports = {
         ecmaFeatures: { jsx: true },
     },
     extends: [
-        'eslint:recommended',
-        'plugin:react/recommended',
-        'plugin:ava/recommended',
-        'plugin:jsx-a11y/recommended',
-        'plugin:import/errors',
-        'plugin:import/warnings',
-        'plugin:jest/recommended',
-        'plugin:prettier/recommended',
-        'prettier/react',
+        require.resolve('eslint/conf/eslint-recommended.js'),
+        require.resolve('./eslint-plugin-react'),
+        require.resolve('./eslint-plugin-ava'),
+        require.resolve('./eslint-plugin-jsx-a11y'),
+        require.resolve('./eslint-plugin-import-errors'),
+        require.resolve('./eslint-plugin-import-warnings'),
+        require.resolve('./eslint-plugin-jest'),
+        require.resolve('./eslint-plugin-prettier-recommended'),
+        require.resolve('eslint-config-prettier/react'),
     ],
-    plugins: ['react', 'ava', 'import', 'jsx-a11y', 'filenames', 'react-hooks'],
+    plugins: ['react', 'ava', 'import', 'jsx-a11y', 'jest', 'filenames', 'react-hooks'],
     env: { es6: true, node: true },
     settings: {
         'import/ignore': ['node_modules'],
