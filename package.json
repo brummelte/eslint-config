@@ -9,7 +9,7 @@
         "eslintconfig"
     ],
     "scripts": {
-        "eslint-check": "eslint --print-config . | eslint-config-prettier-check"
+        "eslint-check": "eslint --print-config index.js | eslint-config-prettier-check"
     },
     "repository": {
         "type": "git",
