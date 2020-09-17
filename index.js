@@ -23,6 +23,7 @@ module.exports = {
     settings: {
         'import/ignore': ['node_modules'],
         react: { version: 'detect' },
+        jest: { version: 26 },
     },
     rules: {
         'arrow-body-style': ['error'],
