@@ -7,12 +7,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - name: Lint
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Setup Node.js
         uses: actions/setup-node@v1
         with:
-          node-version: "13.x"
-      - run: yarn install --immutable --immutable-cache
-      - run: yarn eslint .
-        env:
-          CI: true
+          node-version: 14
+      - name: Install dependencies
+        run: yarn install --immutable --immutable-cache
+      - name: Lint
+        run: yarn eslint .
