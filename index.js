@@ -1,4 +1,6 @@
 /* eslint-disable filenames/no-index */
+const immutableDataConfig = require('./immutableDataConfig');
+
 module.exports = {
     parser: require.resolve('babel-eslint'),
     parserOptions: {
@@ -8,17 +10,28 @@ module.exports = {
         ecmaFeatures: { jsx: true },
     },
     extends: [
-        require.resolve('eslint/conf/eslint-recommended.js'),
-        require.resolve('./eslint-plugin-react'),
         require.resolve('./eslint-plugin-ava'),
-        require.resolve('./eslint-plugin-jsx-a11y'),
         require.resolve('./eslint-plugin-import-errors'),
         require.resolve('./eslint-plugin-import-warnings'),
+        require.resolve('./eslint-plugin-jest-dom-recommended'),
         require.resolve('./eslint-plugin-jest'),
+        require.resolve('./eslint-plugin-jsx-a11y'),
+        require.resolve('./eslint-plugin-react'),
+        require.resolve('./eslint-plugin-testing-library-recommended'),
+        require.resolve('eslint/conf/eslint-recommended.js'),
         require.resolve('./eslint-plugin-prettier-recommended'),
         require.resolve('eslint-config-prettier/react'),
     ],
-    plugins: ['react', 'ava', 'import', 'jsx-a11y', 'jest', 'filenames', 'react-hooks'],
+    plugins: [
+        'react',
+        'ava',
+        'import',
+        'jsx-a11y',
+        'jest',
+        'filenames',
+        'react-hooks',
+        'eslint-plugin-functional',
+    ],
     env: { es6: true, node: true },
     settings: {
         'import/ignore': ['node_modules'],
@@ -66,6 +79,10 @@ module.exports = {
         'react/self-closing-comp': ['error'],
         'react/void-dom-elements-no-children': ['error'],
         strict: ['error'],
+        'one-var': ['error', 'never'],
+        'import/newline-after-import': ['error'],
+        'functional/immutable-data': ['error', immutableDataConfig],
+        'no-console': ['error'],
         'react/jsx-uses-react': 'off',
         'react/react-in-jsx-scope': 'off',
     },
