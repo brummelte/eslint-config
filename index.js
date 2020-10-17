@@ -96,5 +96,9 @@ module.exports = {
             ],
             rules: { 'import/no-extraneous-dependencies': ['error', { devDependencies: true }] },
         },
+        {
+            files: ['**/*.test.js'],
+            env: { jest: true },
+        },
     ],
 };
