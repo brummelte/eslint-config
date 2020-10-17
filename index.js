@@ -10,7 +10,6 @@ module.exports = {
         ecmaFeatures: { jsx: true },
     },
     extends: [
-        require.resolve('./eslint-plugin-ava'),
         require.resolve('./eslint-plugin-import-errors'),
         require.resolve('./eslint-plugin-import-warnings'),
         require.resolve('./eslint-plugin-jest-dom-recommended'),
@@ -24,7 +23,6 @@ module.exports = {
     ],
     plugins: [
         'react',
-        'ava',
         'import',
         'jsx-a11y',
         'jest',
