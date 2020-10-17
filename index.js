@@ -66,6 +66,8 @@ module.exports = {
         'react/self-closing-comp': ['error'],
         'react/void-dom-elements-no-children': ['error'],
         strict: ['error'],
+        'react/jsx-uses-react': 'off',
+        'react/react-in-jsx-scope': 'off',
     },
     overrides: [
         {
