@@ -1,3 +1,10 @@
+## [8.2.2](https://github.com/brummelte/eslint-config/compare/v8.2.1...v8.2.2) (2020-10-18)
+
+
+### Bug Fixes
+
+* remove env from readme ([ba2b967](https://github.com/brummelte/eslint-config/commit/ba2b96712bf7f6b3ceaaefb4955c19efc6f8309b))
+
 ## [8.2.1](https://github.com/brummelte/eslint-config/compare/v8.2.0...v8.2.1) (2020-10-18)
 
 
