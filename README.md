@@ -7,8 +7,5 @@ This is my [ESLint](http://eslint.org) config.
 ```js
 module.exports = {
     extends: '@brummelte',
-    env: {
-        es6: true,
-    },
 };
 ```
