@@ -1,3 +1,10 @@
+## [8.2.1](https://github.com/brummelte/eslint-config/compare/v8.2.0...v8.2.1) (2020-10-18)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint to >=7.11.0 ([a8c9daf](https://github.com/brummelte/eslint-config/commit/a8c9daf072cfff4f08607bb8dafdb0f5fbf9650b))
+
 # [8.2.0](https://github.com/brummelte/eslint-config/compare/v8.1.0...v8.2.0) (2020-10-17)
 
 
