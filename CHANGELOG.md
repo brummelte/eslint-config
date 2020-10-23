@@ -1,3 +1,10 @@
+## [8.3.1](https://github.com/brummelte/eslint-config/compare/v8.3.0...v8.3.1) (2020-10-23)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-prettier to ^6.14.0 ([6996c4d](https://github.com/brummelte/eslint-config/commit/6996c4d05071d11cf27472c58f87a1f3963f2066))
+
 # [8.3.0](https://github.com/brummelte/eslint-config/compare/v8.2.2...v8.3.0) (2020-10-23)
 
 
