@@ -1,3 +1,10 @@
+## [8.3.4](https://github.com/brummelte/eslint-config/compare/v8.3.3...v8.3.4) (2020-10-23)
+
+
+### Bug Fixes
+
+* prettier recommended config ([3e39da9](https://github.com/brummelte/eslint-config/commit/3e39da9e5359dad772a105a42db41dd0da9f692d))
+
 ## [8.3.3](https://github.com/brummelte/eslint-config/compare/v8.3.2...v8.3.3) (2020-10-23)
 
 
