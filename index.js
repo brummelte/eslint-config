@@ -48,7 +48,7 @@ module.exports = {
         'import/no-extraneous-dependencies': ['error'],
         'import/order': [
             'error',
-            { groups: ['builtin', 'external', 'parent', 'sibling', 'index'] },
+            { groups: ['builtin', 'external', 'internal', 'parent', 'sibling', 'index'] },
         ],
         'no-inline-comments': ['error'],
         'no-restricted-syntax': ['error', 'ForInStatement', 'LabeledStatement', 'WithStatement'],
