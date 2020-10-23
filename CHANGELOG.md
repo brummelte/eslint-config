@@ -1,3 +1,10 @@
+## [8.3.2](https://github.com/brummelte/eslint-config/compare/v8.3.1...v8.3.2) (2020-10-23)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-react to ^7.21.5 ([4dce9e4](https://github.com/brummelte/eslint-config/commit/4dce9e4bb8c9a6fac4c56fae293457c134bdc012))
+
 ## [8.3.1](https://github.com/brummelte/eslint-config/compare/v8.3.0...v8.3.1) (2020-10-23)
 
 
