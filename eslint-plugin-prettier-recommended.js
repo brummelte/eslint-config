@@ -1,3 +1,10 @@
 const plugin = require('eslint-plugin-prettier');
 
-module.exports = plugin.configs.recommended;
+const { recommended } = plugin.configs;
+
+module.exports = {
+    ...recommended,
+    extends: recommended.extends.map((config) =>
+        config === 'prettier' ? require.resolve('eslint-config-prettier') : config,
+    ),
+};
