@@ -1,3 +1,10 @@
+# [8.3.0](https://github.com/brummelte/eslint-config/compare/v8.2.2...v8.3.0) (2020-10-23)
+
+
+### Features
+
+* add internal to import sort order ([82ad0b6](https://github.com/brummelte/eslint-config/commit/82ad0b6a83cea414180f46f086d34f9fabe393cb))
+
 ## [8.2.2](https://github.com/brummelte/eslint-config/compare/v8.2.1...v8.2.2) (2020-10-18)
 
 
