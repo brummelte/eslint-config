@@ -1,5 +1,10 @@
 log/
-node_modules/
 *.log
-/.yarn/unplugged
-/.yarn/build-state.yml
+
+# Yarn
+.yarn/*
+!.yarn/cache
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
