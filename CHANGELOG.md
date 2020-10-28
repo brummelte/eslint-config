@@ -1,3 +1,10 @@
+## [8.3.6](https://github.com/brummelte/eslint-config/compare/v8.3.5...v8.3.6) (2020-10-28)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-jsx-a11y to ^6.4.1 ([f29d022](https://github.com/brummelte/eslint-config/commit/f29d0224e00266a1021b9976854bbe3a9597431c))
+
 ## [8.3.5](https://github.com/brummelte/eslint-config/compare/v8.3.4...v8.3.5) (2020-10-24)
 
 
