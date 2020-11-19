@@ -1,3 +1,10 @@
+## [8.3.12](https://github.com/brummelte/eslint-config/compare/v8.3.11...v8.3.12) (2020-11-19)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-testing-library to ^3.10.1 ([bb33589](https://github.com/brummelte/eslint-config/commit/bb335899f991b7bb08f05df1f083d2e7ea1711c5))
+
 ## [8.3.11](https://github.com/brummelte/eslint-config/compare/v8.3.10...v8.3.11) (2020-11-12)
 
 
