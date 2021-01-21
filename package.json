@@ -48,6 +48,6 @@
         "@semantic-release/release-notes-generator": "^9.0.1",
         "@yarnpkg/pnpify": "^2.4.0",
         "eslint": "^7.13.0",
-        "semantic-release": "^17.3.5"
+        "semantic-release": "^17.3.6"
     }
 }
