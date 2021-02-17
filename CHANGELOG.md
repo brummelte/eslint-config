@@ -1,3 +1,10 @@
+## [8.3.13](https://github.com/brummelte/eslint-config/compare/v8.3.12...v8.3.13) (2021-02-17)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-jest to ^24.1.4 ([05eee94](https://github.com/brummelte/eslint-config/commit/05eee9447e21251fda61dc79dadddc50ba31ccea))
+
 ## [8.3.12](https://github.com/brummelte/eslint-config/compare/v8.3.11...v8.3.12) (2020-11-19)
 
 
