@@ -1,3 +1,10 @@
+## [8.4.4](https://github.com/brummelte/eslint-config/compare/v8.4.3...v8.4.4) (2021-08-10)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-jest-dom to ^3.9.0 ([309c22e](https://github.com/brummelte/eslint-config/commit/309c22ed10c8457f462ad0bf82cd7717589e277b))
+
 ## [8.4.3](https://github.com/brummelte/eslint-config/compare/v8.4.2...v8.4.3) (2021-08-10)
 
 
