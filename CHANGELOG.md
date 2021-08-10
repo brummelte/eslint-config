@@ -1,3 +1,10 @@
+# [8.4.0](https://github.com/brummelte/eslint-config/compare/v8.3.21...v8.4.0) (2021-08-10)
+
+
+### Features
+
+* update renovate config ([c9e95e6](https://github.com/brummelte/eslint-config/commit/c9e95e60aeea5f8482f1db136f82d9af4e73bdf9))
+
 ## [8.3.21](https://github.com/brummelte/eslint-config/compare/v8.3.20...v8.3.21) (2021-08-10)
 
 
