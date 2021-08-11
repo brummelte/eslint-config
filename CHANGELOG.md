@@ -1,3 +1,10 @@
+# [8.5.0](https://github.com/brummelte/eslint-config/compare/v8.4.8...v8.5.0) (2021-08-11)
+
+
+### Features
+
+* only run testing library linting on test files ([293f428](https://github.com/brummelte/eslint-config/commit/293f4289d92fb67be25ec48013483fc36f6e5554))
+
 ## [8.4.8](https://github.com/brummelte/eslint-config/compare/v8.4.7...v8.4.8) (2021-08-10)
 
 
