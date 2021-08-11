@@ -16,7 +16,6 @@ module.exports = {
         require.resolve('./eslint-plugin-jest'),
         require.resolve('./eslint-plugin-jsx-a11y'),
         require.resolve('./eslint-plugin-react'),
-        require.resolve('./eslint-plugin-testing-library-react'),
         require.resolve('eslint/conf/eslint-recommended.js'),
         require.resolve('./eslint-plugin-prettier-recommended'),
     ],
@@ -91,6 +90,7 @@ module.exports = {
                 'webpack.config.js',
                 'webpack.config.ava.js',
             ],
+            extends: [require.resolve('./eslint-plugin-testing-library-react')],
             rules: { 'import/no-extraneous-dependencies': ['error', { devDependencies: true }] },
         },
         {
