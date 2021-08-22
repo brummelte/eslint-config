@@ -1,3 +1,10 @@
+## [8.5.1](https://github.com/brummelte/eslint-config/compare/v8.5.0...v8.5.1) (2021-08-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-import-resolver-node to ^0.3.6 ([5d9b73d](https://github.com/brummelte/eslint-config/commit/5d9b73d2c3ffa9afcdf8b0101452b20bf77a3f80))
+
 # [8.5.0](https://github.com/brummelte/eslint-config/compare/v8.4.8...v8.5.0) (2021-08-11)
 
 
