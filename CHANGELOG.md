@@ -1,3 +1,10 @@
+## [8.5.3](https://github.com/brummelte/eslint-config/compare/v8.5.2...v8.5.3) (2021-09-01)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-import to v2.24.2 ([4ddef39](https://github.com/brummelte/eslint-config/commit/4ddef394c9a8d16f6c65c5d3718e9d2abee51b04))
+
 ## [8.5.2](https://github.com/brummelte/eslint-config/compare/v8.5.1...v8.5.2) (2021-08-28)
 
 
