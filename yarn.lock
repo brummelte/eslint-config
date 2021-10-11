@@ -211,7 +211,7 @@ __metadata:
     eslint-config-prettier: ^8.3.0
     eslint-import-resolver-node: ^0.3.6
     eslint-plugin-filenames: ^1.3.2
-    eslint-plugin-functional: ^3.5.0
+    eslint-plugin-functional: ^3.7.2
     eslint-plugin-import: 2.24.2
     eslint-plugin-jest: ^24.4.2
     eslint-plugin-jest-dom: ^3.9.2
@@ -2740,9 +2740,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-functional@npm:^3.5.0":
-  version: 3.5.0
-  resolution: "eslint-plugin-functional@npm:3.5.0"
+"eslint-plugin-functional@npm:^3.7.2":
+  version: 3.7.2
+  resolution: "eslint-plugin-functional@npm:3.7.2"
   dependencies:
     "@typescript-eslint/experimental-utils": ^4.9.1
     array.prototype.flatmap: ^1.2.4
@@ -2758,7 +2758,7 @@ __metadata:
       optional: true
     typescript:
       optional: true
-  checksum: 15f23f48fab63a9dae681ef841dcbef695fe3282544a4b8ab0180c016fea54ca83687146c199e3e39233bb7f5964d6efcfd6334a40d4d408c106c5e096949be9
+  checksum: f4801658d29b1b1058ae514eefcd82f027c5d3122d727755943eff4923e1280781638844a1aca27be68ec407dac022546331d88824cba97025620022ee41fe88
   languageName: node
   linkType: hard
 
