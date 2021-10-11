@@ -1,3 +1,10 @@
+## [8.5.6](https://github.com/brummelte/eslint-config/compare/v8.5.5...v8.5.6) (2021-10-11)
+
+
+### Bug Fixes
+
+* **deps:** update dependency prettier to ^2.4.1 ([735239c](https://github.com/brummelte/eslint-config/commit/735239c519d19993d956d7dddd027be1511b3f94))
+
 ## [8.5.5](https://github.com/brummelte/eslint-config/compare/v8.5.4...v8.5.5) (2021-09-24)
 
 
