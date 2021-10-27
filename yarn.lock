@@ -203,7 +203,7 @@ __metadata:
     "@semantic-release/commit-analyzer": ^9.0.1
     "@semantic-release/git": ^10.0.0
     "@semantic-release/github": ^8.0.1
-    "@semantic-release/npm": ^8.0.0
+    "@semantic-release/npm": ^8.0.2
     "@semantic-release/release-notes-generator": ^10.0.2
     "@yarnpkg/pnpify": ^3.1.0
     babel-eslint: ^10.1.0
@@ -710,6 +710,29 @@ __metadata:
   peerDependencies:
     semantic-release: ">=18.0.0-beta.1"
   checksum: fda190cae892e9526280494b6dccde933eda589e36a57b938df62d6b9561f66e712144f551cb1cd405d436c30bb0b9458c8f91cf9f7cdc94b856518991597ec4
+  languageName: node
+  linkType: hard
+
+"@semantic-release/npm@npm:^8.0.2":
+  version: 8.0.2
+  resolution: "@semantic-release/npm@npm:8.0.2"
+  dependencies:
+    "@semantic-release/error": ^3.0.0
+    aggregate-error: ^3.0.0
+    execa: ^5.0.0
+    fs-extra: ^10.0.0
+    lodash: ^4.17.15
+    nerf-dart: ^1.0.0
+    normalize-url: ^6.0.0
+    npm: ^7.0.0
+    rc: ^1.2.8
+    read-pkg: ^5.0.0
+    registry-auth-token: ^4.0.0
+    semver: ^7.1.2
+    tempy: ^1.0.0
+  peerDependencies:
+    semantic-release: ">=18.0.0"
+  checksum: 072bfa8967ecbb03c5661ede5b9d3a17a670617606a5494346fb6628a9309252fce43d7c208f50b25ad797748260c1d67591819f635d251a0bfa4b3b55f603c2
   languageName: node
   linkType: hard
 
