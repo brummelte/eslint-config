@@ -1,3 +1,10 @@
+## [8.5.15](https://github.com/brummelte/eslint-config/compare/v8.5.14...v8.5.15) (2021-11-15)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-jest to ^25.2.4 ([90ce0b2](https://github.com/brummelte/eslint-config/commit/90ce0b201a239ec485cd5946954c42baf93b41a2))
+
 ## [8.5.14](https://github.com/brummelte/eslint-config/compare/v8.5.13...v8.5.14) (2021-10-25)
 
 
