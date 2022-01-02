@@ -138,7 +138,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/runtime@npm:^7.11.2, @babel/runtime@npm:^7.9.6":
+"@babel/runtime@npm:^7.11.2":
   version: 7.12.1
   resolution: "@babel/runtime@npm:7.12.1"
   dependencies:
@@ -153,6 +153,15 @@ __metadata:
   dependencies:
     regenerator-runtime: ^0.13.4
   checksum: ebadb3e013a26e0f62abea0da6f6f5d83c9566f0d900e65069885f93088066c64586076d15dcbe6e093c536f66cffc9e2e136ad5d8b3e66235af62f0051afa42
+  languageName: node
+  linkType: hard
+
+"@babel/runtime@npm:^7.16.3":
+  version: 7.16.7
+  resolution: "@babel/runtime@npm:7.16.7"
+  dependencies:
+    regenerator-runtime: ^0.13.4
+  checksum: 2e2078cd935c4a0f79d1128f3fc5aa2e89b2112b01cc6538fcca0da056252d5b88d20164192893bb891831ec147aafeeedb08172535547592ffbcdde67d82dd4
   languageName: node
   linkType: hard
 
@@ -214,7 +223,7 @@ __metadata:
     eslint-plugin-functional: ^3.7.2
     eslint-plugin-import: 2.25.3
     eslint-plugin-jest: ^25.2.4
-    eslint-plugin-jest-dom: ^3.9.2
+    eslint-plugin-jest-dom: ^3.9.4
     eslint-plugin-jsx-a11y: ^6.4.1
     eslint-plugin-prettier: ^4.0.0
     eslint-plugin-react: ^7.26.1
@@ -818,7 +827,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@testing-library/dom@npm:^7.28.1":
+"@testing-library/dom@npm:^7.31.2":
   version: 7.31.2
   resolution: "@testing-library/dom@npm:7.31.2"
   dependencies:
@@ -2929,16 +2938,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-jest-dom@npm:^3.9.2":
-  version: 3.9.2
-  resolution: "eslint-plugin-jest-dom@npm:3.9.2"
+"eslint-plugin-jest-dom@npm:^3.9.4":
+  version: 3.9.4
+  resolution: "eslint-plugin-jest-dom@npm:3.9.4"
   dependencies:
-    "@babel/runtime": ^7.9.6
-    "@testing-library/dom": ^7.28.1
+    "@babel/runtime": ^7.16.3
+    "@testing-library/dom": ^7.31.2
     requireindex: ^1.2.0
   peerDependencies:
     eslint: ">=6.8"
-  checksum: fe705609f83943aba67f237dafea18ac45c8bbe29372ed77100929456aa0238e70b4568084b6dbb7b359177bd0b9150cc2a05eebc38cbf257ee2365a7ce603ef
+  checksum: 3b62d00612a9ec5722dc99131bda55570f5d1fd943ad12f3e23aa4c6c1609c78578bf47351db4c2a7efeac59289638cd9ede5656655ede78101d929ecc215c83
   languageName: node
   linkType: hard
 
