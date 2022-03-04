@@ -1,3 +1,10 @@
+## [8.5.23](https://github.com/brummelte/eslint-config/compare/v8.5.22...v8.5.23) (2022-03-04)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-react-hooks to ^4.3.0 ([df4adf7](https://github.com/brummelte/eslint-config/commit/df4adf779eafac1b38abfb3d809b5bb62b6f4e80))
+
 ## [8.5.22](https://github.com/brummelte/eslint-config/compare/v8.5.21...v8.5.22) (2022-03-04)
 
 
