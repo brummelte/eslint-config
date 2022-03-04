@@ -1,6 +1,6 @@
 {
     "name": "@brummelte/eslint-config",
-    "version": "8.5.27",
+    "version": "8.5.28",
     "description": "Shared ESLint config",
     "main": "index.js",
     "author": "Jan Brummelte <eslint-config@jan-brummelte.de> (http://jan-brummelte.de)",
