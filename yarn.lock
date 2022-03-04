@@ -138,15 +138,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/runtime@npm:^7.11.2":
-  version: 7.12.1
-  resolution: "@babel/runtime@npm:7.12.1"
-  dependencies:
-    regenerator-runtime: ^0.13.4
-  checksum: 979d1c099c386031f96a952ee903e7bc3c60ae6e4eefe2bf49e4224014542d4ac2b1e2fb708031da36501a3842d4442dfdab38ab359ab3f46634b3c7cb5f6c6e
-  languageName: node
-  linkType: hard
-
 "@babel/runtime@npm:^7.12.5":
   version: 7.14.8
   resolution: "@babel/runtime@npm:7.14.8"
@@ -224,7 +215,7 @@ __metadata:
     eslint-plugin-import: 2.25.4
     eslint-plugin-jest: ^25.7.0
     eslint-plugin-jest-dom: ^4.0.1
-    eslint-plugin-jsx-a11y: ^6.4.1
+    eslint-plugin-jsx-a11y: ^6.5.1
     eslint-plugin-prettier: ^4.0.0
     eslint-plugin-react: ^7.26.1
     eslint-plugin-react-hooks: ^4.2.0
@@ -1708,10 +1699,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"axe-core@npm:^4.0.2":
-  version: 4.0.2
-  resolution: "axe-core@npm:4.0.2"
-  checksum: 27f5b3c24f7133c73afbaf6a58c468219a11651c40daa8bc3f86a1e0ef2f3b934f3acba0424a4aba0382f45d7dcf285cef8e9ac7e554d28985bc60f5bf4386e5
+"axe-core@npm:^4.3.5":
+  version: 4.4.1
+  resolution: "axe-core@npm:4.4.1"
+  checksum: c040149488e08c365cf105e917415720e926bc59277667534c20eb35fa72757072b3224cb08a9d228ac32ae142fecc2b8880235b83c3256842eb46a0a0e3b6f5
   languageName: node
   linkType: hard
 
@@ -2305,10 +2296,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"damerau-levenshtein@npm:^1.0.6":
-  version: 1.0.6
-  resolution: "damerau-levenshtein@npm:1.0.6"
-  checksum: 46fbf25fc5cef33e8192ce6141c45bc8e265d7da63fdbca2f34b4bcfb580d28e8a30414b356ff0057bed018edccda1cb20d4ba16bd7ab34f14fcaa818bd4b88d
+"damerau-levenshtein@npm:^1.0.7":
+  version: 1.0.8
+  resolution: "damerau-levenshtein@npm:1.0.8"
+  checksum: f2ab4598e32cfaf13e5ecb135cec21f4b06ef4de95641726ec9611b79b4530b48e8b48d2e8db1704d5184daed3256896416f8755c39ce480e2e33f322b1370a4
   languageName: node
   linkType: hard
 
@@ -2595,10 +2586,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"emoji-regex@npm:^9.0.0":
-  version: 9.0.0
-  resolution: "emoji-regex@npm:9.0.0"
-  checksum: d089be1902c6f82e9e45f8496dd2bef89ead8489fca75486ad3aa085c84b2c6cbfbf79baba7eb30d6cacc70bea948a6eeca9a9ba32d594cd4434a60df475352b
+"emoji-regex@npm:^9.2.2":
+  version: 9.2.2
+  resolution: "emoji-regex@npm:9.2.2"
+  checksum: f3029ec432745ecb7cf5dcea1bc9ad3d70714ef20fcae1dc87a422d3be68913c42ed3adbb86765e7aa6c723c3bcd5833b5f4e22ed06d5e5cb74e0f628d4fc95b
   languageName: node
   linkType: hard
 
@@ -2934,24 +2925,25 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-jsx-a11y@npm:^6.4.1":
-  version: 6.4.1
-  resolution: "eslint-plugin-jsx-a11y@npm:6.4.1"
+"eslint-plugin-jsx-a11y@npm:^6.5.1":
+  version: 6.5.1
+  resolution: "eslint-plugin-jsx-a11y@npm:6.5.1"
   dependencies:
-    "@babel/runtime": ^7.11.2
+    "@babel/runtime": ^7.16.3
     aria-query: ^4.2.2
-    array-includes: ^3.1.1
+    array-includes: ^3.1.4
     ast-types-flow: ^0.0.7
-    axe-core: ^4.0.2
+    axe-core: ^4.3.5
     axobject-query: ^2.2.0
-    damerau-levenshtein: ^1.0.6
-    emoji-regex: ^9.0.0
+    damerau-levenshtein: ^1.0.7
+    emoji-regex: ^9.2.2
     has: ^1.0.3
-    jsx-ast-utils: ^3.1.0
+    jsx-ast-utils: ^3.2.1
     language-tags: ^1.0.5
+    minimatch: ^3.0.4
   peerDependencies:
-    eslint: ^3 || ^4 || ^5 || ^6 || ^7
-  checksum: 680d13f5e3e23f7e9b5208c87fa81497bff31909796cbaf5f6245462e54f4bf6b5d03db97662eb67afb344d3f525ade0902472bc807b411b2c3806549faf7203
+    eslint: ^3 || ^4 || ^5 || ^6 || ^7 || ^8
+  checksum: 66cbe9396249bfe6c96ef07abb8834e8ecac1d40db9e97e1f2303f59d96a2f10e9a4b1d4df312ababfaf3acafdcb47eddf9159355251040348bb92fe5da1bbc7
   languageName: node
   linkType: hard
 
@@ -4590,13 +4582,23 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jsx-ast-utils@npm:^2.4.1 || ^3.0.0, jsx-ast-utils@npm:^3.1.0":
+"jsx-ast-utils@npm:^2.4.1 || ^3.0.0":
   version: 3.1.0
   resolution: "jsx-ast-utils@npm:3.1.0"
   dependencies:
     array-includes: ^3.1.1
     object.assign: ^4.1.1
   checksum: 189ef9aed8dae620376a3f164c7aac9caaa906e6ecc460f175b3910dadc28f472f0e8c171c3355f9c6a1fc448282926f3f3e42da993880d5a9d57408c03ed85a
+  languageName: node
+  linkType: hard
+
+"jsx-ast-utils@npm:^3.2.1":
+  version: 3.2.1
+  resolution: "jsx-ast-utils@npm:3.2.1"
+  dependencies:
+    array-includes: ^3.1.3
+    object.assign: ^4.1.2
+  checksum: 8d2fa2c6b370aeed221be64fc52cb9774fb91a2ab1c8f2bf268da932e187bea68e8a77501205b26531da981da341a1cb4aacd2244fc32248214219f5cdd22f0c
   languageName: node
   linkType: hard
 
