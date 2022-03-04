@@ -1,3 +1,10 @@
+## [8.5.27](https://github.com/brummelte/eslint-config/compare/v8.5.26...v8.5.27) (2022-03-04)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-prettier to ^8.5.0 ([e05fd10](https://github.com/brummelte/eslint-config/commit/e05fd10e44a89a4b8f5e212ce315af39e8af36f4))
+
 ## [8.5.26](https://github.com/brummelte/eslint-config/compare/v8.5.25...v8.5.26) (2022-03-04)
 
 
