@@ -5,12 +5,12 @@ __metadata:
   version: 4
   cacheKey: 6
 
-"@arcanis/slice-ansi@npm:^1.0.2":
-  version: 1.0.2
-  resolution: "@arcanis/slice-ansi@npm:1.0.2"
+"@arcanis/slice-ansi@npm:^1.1.1":
+  version: 1.1.1
+  resolution: "@arcanis/slice-ansi@npm:1.1.1"
   dependencies:
     grapheme-splitter: ^1.0.4
-  checksum: 1b4539363054608b37f65d49d5c920a557d55f6231a73440213e3fd809fce8ed8c72b8b7939c4dbbbfd14647ce6e8d76c0df6cec19a744400c847ef6e76a1988
+  checksum: cf5cdbba6554f151a8b7040ceffc966258ec5106031601427110dac7073d94fcd625aab3acb17a315b88dbd35841d840513b809d2b780ad396d48fbf5cc44dd3
   languageName: node
   linkType: hard
 
@@ -205,7 +205,7 @@ __metadata:
     "@semantic-release/github": ^8.0.2
     "@semantic-release/npm": ^9.0.1
     "@semantic-release/release-notes-generator": ^10.0.3
-    "@yarnpkg/pnpify": ^3.1.0
+    "@yarnpkg/pnpify": ^3.1.1
     babel-eslint: ^10.1.0
     eslint: ^7.32.0
     eslint-config-prettier: ^8.3.0
@@ -1091,23 +1091,23 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@yarnpkg/core@npm:^3.1.0":
-  version: 3.1.0
-  resolution: "@yarnpkg/core@npm:3.1.0"
+"@yarnpkg/core@npm:^3.2.0":
+  version: 3.2.0
+  resolution: "@yarnpkg/core@npm:3.2.0"
   dependencies:
-    "@arcanis/slice-ansi": ^1.0.2
+    "@arcanis/slice-ansi": ^1.1.1
     "@types/semver": ^7.1.0
     "@types/treeify": ^1.0.0
-    "@yarnpkg/fslib": ^2.6.0
+    "@yarnpkg/fslib": ^2.6.1
     "@yarnpkg/json-proxy": ^2.1.1
-    "@yarnpkg/libzip": ^2.2.2
-    "@yarnpkg/parsers": ^2.4.1
-    "@yarnpkg/pnp": ^3.1.0
-    "@yarnpkg/shell": ^3.1.0
+    "@yarnpkg/libzip": ^2.2.3
+    "@yarnpkg/parsers": ^2.5.0
+    "@yarnpkg/pnp": ^3.2.0
+    "@yarnpkg/shell": ^3.2.0
     camelcase: ^5.3.1
     chalk: ^3.0.0
     ci-info: ^3.2.0
-    clipanion: ^3.0.1
+    clipanion: ^3.2.0-rc.4
     cross-spawn: 7.0.3
     diff: ^4.0.1
     globby: ^11.0.1
@@ -1117,7 +1117,6 @@ __metadata:
     micromatch: ^4.0.2
     mkdirp: ^0.5.1
     p-limit: ^2.2.0
-    p-queue: ^6.0.0
     pluralize: ^7.0.0
     pretty-bytes: ^5.1.0
     semver: ^7.1.2
@@ -1128,17 +1127,27 @@ __metadata:
     treeify: ^1.1.0
     tslib: ^1.13.0
     tunnel: ^0.0.6
-  checksum: 91f509e0a1deaf9fd927bed65d197f3849355076fb6821411632fcccfadaeb1cd58470500c62ac6f277c8695d1c06394fcc3b1d0045fb0df17a22b895e95eb4b
+  checksum: 19af30250063a0486b8d3afc94b8d7508de7591f4ac3f22c644889277e751126e143961ceb2ba05a557191fe7c719d1ddc526ba7bba48727f79f642254ef0a32
   languageName: node
   linkType: hard
 
-"@yarnpkg/fslib@npm:^2.5.0, @yarnpkg/fslib@npm:^2.6.0":
+"@yarnpkg/fslib@npm:^2.5.0":
   version: 2.6.0
   resolution: "@yarnpkg/fslib@npm:2.6.0"
   dependencies:
     "@yarnpkg/libzip": ^2.2.2
     tslib: ^1.13.0
   checksum: adaf2d0396658da405d4d4c7f596d7d5161111f250c54d0bdd912056172cec15881f3100b5b372f1c96a2cdcdd263a7c8928acf3535c53aa1e0b3cf10a6ad310
+  languageName: node
+  linkType: hard
+
+"@yarnpkg/fslib@npm:^2.6.1":
+  version: 2.6.1
+  resolution: "@yarnpkg/fslib@npm:2.6.1"
+  dependencies:
+    "@yarnpkg/libzip": ^2.2.3
+    tslib: ^1.13.0
+  checksum: b68bf4c7b5a91da9cf3eae5d1b93551bb5637c303d4d760df86e81ef8d750436495bfef86790a941cf299abf00c51fbb774cae449a8d76a50fee4b0b00ef86a6
   languageName: node
   linkType: hard
 
@@ -1162,62 +1171,70 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@yarnpkg/nm@npm:^3.0.0":
-  version: 3.0.0
-  resolution: "@yarnpkg/nm@npm:3.0.0"
+"@yarnpkg/libzip@npm:^2.2.3":
+  version: 2.2.4
+  resolution: "@yarnpkg/libzip@npm:2.2.4"
   dependencies:
-    "@yarnpkg/core": ^3.1.0
-    "@yarnpkg/fslib": ^2.6.0
-  checksum: 7cf13f8887355da34467d5230b9174f31dea99b1df0615d4f914b67c16d87b57f8f1c1f2b50313935046bf09273931cfe95a4d37ffbe623427e4f0bd65f6132a
+    "@types/emscripten": ^1.38.0
+    tslib: ^1.13.0
+  checksum: 24d32617d458b14b9d9331d9eb9e0eb23433bd39d7deefb681fe93c9b675f1d33da0713d6be98c5ada3b30ebe63963d239b5acb55e51ef1caed3a1f4e836ea22
   languageName: node
   linkType: hard
 
-"@yarnpkg/parsers@npm:^2.4.1":
-  version: 2.4.1
-  resolution: "@yarnpkg/parsers@npm:2.4.1"
+"@yarnpkg/nm@npm:^3.0.1":
+  version: 3.0.1
+  resolution: "@yarnpkg/nm@npm:3.0.1"
+  dependencies:
+    "@yarnpkg/core": ^3.2.0
+    "@yarnpkg/fslib": ^2.6.1
+  checksum: 93c67286a78679bb4f067e3b400b9b9037866665446d8d2492e98dbf4e78eeafb581c46ea0ba87682b6fe1f0702b2212a0d0d83c13c9b503372fd0e2c655ed50
+  languageName: node
+  linkType: hard
+
+"@yarnpkg/parsers@npm:^2.5.0":
+  version: 2.5.0
+  resolution: "@yarnpkg/parsers@npm:2.5.0"
   dependencies:
     js-yaml: ^3.10.0
     tslib: ^1.13.0
-  checksum: 7230444a974b188090024d638cf9b28885c4198add9d3abb4c6293ed1176b6aa9d1f3c46b7d7886c864026a64ab629982a28d89b0fedb22468957343e028c76b
+  checksum: f8ddce65d03bb1675380926807873c2136eb89a0936bf78956125c29daf357e2a3a4c30f740846e8a90bfb80abb6c96db7ba51fcfb6b15e2596e8df2255355ed
   languageName: node
   linkType: hard
 
-"@yarnpkg/pnp@npm:^3.1.0":
-  version: 3.1.0
-  resolution: "@yarnpkg/pnp@npm:3.1.0"
+"@yarnpkg/pnp@npm:^3.2.0":
+  version: 3.2.0
+  resolution: "@yarnpkg/pnp@npm:3.2.0"
   dependencies:
     "@types/node": ^13.7.0
-    "@yarnpkg/fslib": ^2.6.0
-    resolve.exports: ^1.1.0
-    tslib: ^1.13.0
-  checksum: 8dab9ac5cb896c7289158b673208d7c8c26202acc1353fa6e894c18d289106951a3712c100fd58af5cbd97339419ce7b3cb142f934aa48c6b7454f3b494f74fe
+    "@yarnpkg/fslib": ^2.6.1
+  checksum: a38b95eb63f85676f817f402a540f18d8b189292f1a3f5fb433d3ddbc846b1af8258712db117870f8273b7117ebc08e414d8967fc790a74ac5286da3775aab1a
   languageName: node
   linkType: hard
 
-"@yarnpkg/pnpify@npm:^3.1.0":
-  version: 3.1.0
-  resolution: "@yarnpkg/pnpify@npm:3.1.0"
+"@yarnpkg/pnpify@npm:^3.1.1":
+  version: 3.1.1
+  resolution: "@yarnpkg/pnpify@npm:3.1.1"
   dependencies:
-    "@yarnpkg/core": ^3.1.0
-    "@yarnpkg/fslib": ^2.6.0
-    "@yarnpkg/nm": ^3.0.0
-    clipanion: ^3.0.1
+    "@yarnpkg/core": ^3.2.0
+    "@yarnpkg/fslib": ^2.6.1
+    "@yarnpkg/nm": ^3.0.1
+    clipanion: ^3.2.0-rc.4
     cross-spawn: 7.0.3
     tslib: ^1.13.0
   bin:
     pnpify: ./lib/cli.js
-  checksum: 44584d389aadb00239f84ed3b54480e1bf26dd0d5f3d2a257d7ba64a5b52a8be4c6cdfb743b98f7b99ff026bdb511e6eac27468283d969a31fb52bacb4013267
+  checksum: 405b3bfb0e87946a0745e7e465f7ee6a4fff4e74dfc959fbcab816bbc9d9946149021b501d131c7814532502d16b7758402cfa658361870517ac310c642338b3
   languageName: node
   linkType: hard
 
-"@yarnpkg/shell@npm:^3.1.0":
-  version: 3.1.0
-  resolution: "@yarnpkg/shell@npm:3.1.0"
+"@yarnpkg/shell@npm:^3.2.0":
+  version: 3.2.0
+  resolution: "@yarnpkg/shell@npm:3.2.0"
   dependencies:
-    "@yarnpkg/fslib": ^2.6.0
-    "@yarnpkg/parsers": ^2.4.1
+    "@yarnpkg/fslib": ^2.6.1
+    "@yarnpkg/parsers": ^2.5.0
     chalk: ^3.0.0
-    clipanion: ^3.0.1
+    clipanion: ^3.2.0-rc.4
     cross-spawn: 7.0.3
     fast-glob: ^3.2.2
     micromatch: ^4.0.2
@@ -1225,7 +1242,7 @@ __metadata:
     tslib: ^1.13.0
   bin:
     shell: ./lib/cli.js
-  checksum: 62f86041055e43ada2c4c625a1e6855604e159419bab20769230d81f42c1041656b69efc16d06099f5298ae8a948ff60752ed233efd7304d812e384f593a021e
+  checksum: a8e3172ac8986ce57c8e1c1420cbc00d64b393a0ace33481419c7c0c542d160dab09dda740a55bc0bee8e736cbe56a5a6eca7c1f21f73a164ffd2b857a314faa
   languageName: node
   linkType: hard
 
@@ -1930,14 +1947,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"clipanion@npm:^3.0.1":
-  version: 3.1.0
-  resolution: "clipanion@npm:3.1.0"
+"clipanion@npm:^3.2.0-rc.4":
+  version: 3.2.0-rc.10
+  resolution: "clipanion@npm:3.2.0-rc.10"
   dependencies:
     typanion: ^3.3.1
   peerDependencies:
     typanion: "*"
-  checksum: 490d21cff7a3a43fffd9f488b0dd421421570059225cdfad352920a99885539c000acdadcc662c35df409e11785b84bd28030e21b3b4d50530fee7ff7acec9f4
+  checksum: 29dff1a24e483468fef5a74b6f522ac6b10fd83837a17feafa50ce121fd685d5b162f035e3467116ef9765ce03e9b1eba1b4a8873f8170622c0836ac00fcf61f
   languageName: node
   linkType: hard
 
@@ -3060,13 +3077,6 @@ __metadata:
   version: 2.0.3
   resolution: "esutils@npm:2.0.3"
   checksum: 590b04533177f8f6f0f352b3ac7da6c1c1e3d8375d8973972fba9c94558ca168685fd38319c3c6f4c37ba256df7494a7f15d8e761df1655af8a8f0027d988f8f
-  languageName: node
-  linkType: hard
-
-"eventemitter3@npm:^4.0.4":
-  version: 4.0.7
-  resolution: "eventemitter3@npm:4.0.7"
-  checksum: 1fc12c7bc3b4194c50975827e72d56ff57c32b75a4c7dbf4d5eebf3c8371f6f1aad6799150b609de1b867c0d8a9885c08b6ca5e7e0dc437d6152f3063b2607dd
   languageName: node
   linkType: hard
 
@@ -5670,13 +5680,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"p-finally@npm:^1.0.0":
-  version: 1.0.0
-  resolution: "p-finally@npm:1.0.0"
-  checksum: 01f49b2d9c67573b3a1cb253cd9e1ecf5c912b6ba5de8824118bbc8d647bfa6296820b5a536e91ec68a54395d4e1c58de9a381ded3b688074fb446a8fe351931
-  languageName: node
-  linkType: hard
-
 "p-is-promise@npm:^3.0.0":
   version: 3.0.0
   resolution: "p-is-promise@npm:3.0.0"
@@ -5736,16 +5739,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"p-queue@npm:^6.0.0":
-  version: 6.6.2
-  resolution: "p-queue@npm:6.6.2"
-  dependencies:
-    eventemitter3: ^4.0.4
-    p-timeout: ^3.2.0
-  checksum: e95a48f421589ac95dc8913bc949e4c73cfc40c294580f176d2e1af6fa525459ed340c9e8d72a9947ca25e5f79f1d5cfbc10f546f958a324704bfcc838340cee
-  languageName: node
-  linkType: hard
-
 "p-reduce@npm:^2.0.0":
   version: 2.1.0
   resolution: "p-reduce@npm:2.1.0"
@@ -5760,15 +5753,6 @@ __metadata:
     "@types/retry": ^0.12.0
     retry: ^0.12.0
   checksum: bf106e5424a598a26423d0efc43b67c48de42b8b007dc0f788b65832d3d907180bc607207f9ecbc35b3195b0f561bd0e09fc44fe8efe13558c572ff6f2ce12bf
-  languageName: node
-  linkType: hard
-
-"p-timeout@npm:^3.2.0":
-  version: 3.2.0
-  resolution: "p-timeout@npm:3.2.0"
-  dependencies:
-    p-finally: ^1.0.0
-  checksum: d7e71c1547736ecd392be3c4ea956af1abd2b6f56179f37443672cfaccb41383533cdf2e927890bb5282e1eb41c979be133eef26a6a84a8224ff4f5c9455b517
   languageName: node
   linkType: hard
 
@@ -6357,13 +6341,6 @@ __metadata:
   version: 5.0.0
   resolution: "resolve-from@npm:5.0.0"
   checksum: 0d29fc7012eb21f34d2637fa0602694f60e64c14bf5fbd5395b72f6ea5540a6906cbeef062edefc34c22fd802bfe8ae46ef936e6c4a3f1b1047390f9738dd76f
-  languageName: node
-  linkType: hard
-
-"resolve.exports@npm:^1.1.0":
-  version: 1.1.0
-  resolution: "resolve.exports@npm:1.1.0"
-  checksum: d04d2ce651fac14fe6ba13b377690f790cbbe91e6211b8fbec97ee08282e278875c74073a9b6243143a64e33d95eefb479e1dd4965664edc73b28b712100b36c
   languageName: node
   linkType: hard
 
