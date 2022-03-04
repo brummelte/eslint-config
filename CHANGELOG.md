@@ -1,3 +1,10 @@
+## [8.5.25](https://github.com/brummelte/eslint-config/compare/v8.5.24...v8.5.25) (2022-03-04)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-functional to v4 ([a1c0d49](https://github.com/brummelte/eslint-config/commit/a1c0d49135c36f290668c1642c19ac40b669a072))
+
 ## [8.5.24](https://github.com/brummelte/eslint-config/compare/v8.5.23...v8.5.24) (2022-03-04)
 
 
