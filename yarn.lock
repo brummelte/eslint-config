@@ -218,7 +218,7 @@ __metadata:
     eslint-plugin-jsx-a11y: ^6.5.1
     eslint-plugin-prettier: ^4.0.0
     eslint-plugin-react: ^7.29.4
-    eslint-plugin-react-hooks: ^4.3.0
+    eslint-plugin-react-hooks: ^4.5.0
     eslint-plugin-testing-library: ^5.0.6
     prettier: ^2.5.1
     semantic-release: ^19.0.2
@@ -2850,12 +2850,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-react-hooks@npm:^4.3.0":
-  version: 4.3.0
-  resolution: "eslint-plugin-react-hooks@npm:4.3.0"
+"eslint-plugin-react-hooks@npm:^4.5.0":
+  version: 4.5.0
+  resolution: "eslint-plugin-react-hooks@npm:4.5.0"
   peerDependencies:
     eslint: ^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0-0
-  checksum: 55d65863c0aeebbb470c494fe7fdf014b661c5aef21d1ab0c4f19b291d28b2a905de78eb6133891e4677abb7bc37c8b4a252aef007de1559ae28ad70e57d494a
+  checksum: ee4dcbc02ed0a425b6157d6d87915e03b9e82d4b8a47e4d65314bc4c133ed08f42444bb3155837f1e11f312c7768d92ba9506ddf6c2cef3e2a958ead529b177d
   languageName: node
   linkType: hard
 

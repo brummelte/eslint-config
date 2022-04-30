@@ -56,7 +56,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-jsx-a11y", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:6.5.1"],
             ["eslint-plugin-prettier", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:4.0.0"],
             ["eslint-plugin-react", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:7.29.4"],
-            ["eslint-plugin-react-hooks", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:4.3.0"],
+            ["eslint-plugin-react-hooks", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:4.5.0"],
             ["eslint-plugin-testing-library", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:5.0.6"],
             ["prettier", "npm:2.5.1"],
             ["semantic-release", "npm:19.0.2"]
@@ -287,7 +287,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-jsx-a11y", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:6.5.1"],
             ["eslint-plugin-prettier", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:4.0.0"],
             ["eslint-plugin-react", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:7.29.4"],
-            ["eslint-plugin-react-hooks", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:4.3.0"],
+            ["eslint-plugin-react-hooks", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:4.5.0"],
             ["eslint-plugin-testing-library", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:5.0.6"],
             ["prettier", "npm:2.5.1"],
             ["semantic-release", "npm:19.0.2"]
@@ -3337,10 +3337,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["eslint-plugin-react-hooks", [
-        ["virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:4.3.0", {
-          "packageLocation": "./.yarn/$$virtual/eslint-plugin-react-hooks-virtual-8586d5d193/0/cache/eslint-plugin-react-hooks-npm-4.3.0-290cb54ea5-55d65863c0.zip/node_modules/eslint-plugin-react-hooks/",
+        ["virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:4.5.0", {
+          "packageLocation": "./.yarn/$$virtual/eslint-plugin-react-hooks-virtual-684d9227b3/0/cache/eslint-plugin-react-hooks-npm-4.5.0-e4de07a9f2-ee4dcbc02e.zip/node_modules/eslint-plugin-react-hooks/",
           "packageDependencies": [
-            ["eslint-plugin-react-hooks", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:4.3.0"],
+            ["eslint-plugin-react-hooks", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:4.5.0"],
             ["@types/eslint", null],
             ["eslint", "npm:7.32.0"]
           ],
