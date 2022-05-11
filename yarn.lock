@@ -347,6 +347,7 @@ __metadata:
   dependencies:
     "@babel/core": ^7.17.10
     "@babel/eslint-parser": ^7.17.0
+    "@rushstack/eslint-patch": ^1.1.3
     "@semantic-release/changelog": ^6.0.1
     "@semantic-release/commit-analyzer": ^9.0.2
     "@semantic-release/git": ^10.0.1
@@ -802,6 +803,13 @@ __metadata:
   dependencies:
     "@types/node": ">= 8"
   checksum: f17f37c2b51837680afb313335828013e95618ecd6ba1500fa513f932657b040e9facfdebbf81f4a92789eefe7e170d452de4e7c68ead0ffc23137e9cf98c177
+  languageName: node
+  linkType: hard
+
+"@rushstack/eslint-patch@npm:^1.1.3":
+  version: 1.1.3
+  resolution: "@rushstack/eslint-patch@npm:1.1.3"
+  checksum: 53752d1e34e45a91b30a016b837c33054fcbd0a295c0312b0812dab78289ea680d7c0c3f19c1f885f49764d416727747133765ff5bfce31a9c4cc93c7a56ebe1
   languageName: node
   linkType: hard
 
