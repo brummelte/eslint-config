@@ -1,6 +1,8 @@
 /* eslint-disable filenames/no-index */
 const immutableDataConfig = require('./immutableDataConfig');
 
+require('./eslint-patch');
+
 module.exports = {
     parser: require.resolve('@babel/eslint-parser'),
     parserOptions: {
