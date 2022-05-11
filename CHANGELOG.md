@@ -1,3 +1,26 @@
+# [9.0.0](https://github.com/brummelte/eslint-config/compare/v8.5.33...v9.0.0) (2022-05-11)
+
+
+### Bug Fixes
+
+* **deps:** migrate from babel-eslint to @babel/eslint-parser ([9c22c53](https://github.com/brummelte/eslint-config/commit/9c22c53dc7649346effd01722caabe1b6c4d0b64))
+* **deps:** upgrade yarn ([e3bac47](https://github.com/brummelte/eslint-config/commit/e3bac4739deaa28a17d7814a0a14e52822a55a13))
+* **deps:** upgrade yarn sdks ([d0a313e](https://github.com/brummelte/eslint-config/commit/d0a313ee45828032dc16ab610187d1c5cc965683))
+* fix extending recommended config ([2479926](https://github.com/brummelte/eslint-config/commit/2479926d3ff3fa3e4d39eb4352364950dd45227b))
+
+
+* fix(deps)!: upgrade eslint to v8 ([7d83ec3](https://github.com/brummelte/eslint-config/commit/7d83ec3a0e80a7c1b7157396f9e40f5544bf8bff))
+
+
+### Features
+
+* add eslint patch ([776b2e0](https://github.com/brummelte/eslint-config/commit/776b2e0531fb5edca219d6a4fb0513f82f5e6082))
+
+
+### BREAKING CHANGES
+
+* eslint v8
+
 ## [8.5.33](https://github.com/brummelte/eslint-config/compare/v8.5.32...v8.5.33) (2022-04-30)
 
 
