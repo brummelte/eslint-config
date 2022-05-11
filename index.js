@@ -14,7 +14,7 @@ module.exports = {
         require.resolve('./eslint-plugin-jest'),
         require.resolve('./eslint-plugin-jsx-a11y'),
         require.resolve('./eslint-plugin-react'),
-        require.resolve('eslint/conf/eslint-recommended.js'),
+        'eslint:recommended',
         require.resolve('./eslint-plugin-prettier-recommended'),
     ],
     plugins: [
