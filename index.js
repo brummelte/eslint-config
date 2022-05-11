@@ -2,12 +2,10 @@
 const immutableDataConfig = require('./immutableDataConfig');
 
 module.exports = {
-    parser: require.resolve('babel-eslint'),
+    parser: require.resolve('@babel/eslint-parser'),
     parserOptions: {
-        ecmaVersion: 'latest',
         sourceType: 'module',
-        impliedStrict: true,
-        ecmaFeatures: { jsx: true },
+        requireConfigFile: false,
     },
     extends: [
         require.resolve('./eslint-plugin-import-errors'),
