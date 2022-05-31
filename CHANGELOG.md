@@ -1,3 +1,10 @@
+## [9.0.3](https://github.com/brummelte/eslint-config/compare/v9.0.2...v9.0.3) (2022-05-31)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-jest to ^26.4.6 ([d7b7e80](https://github.com/brummelte/eslint-config/commit/d7b7e80a9be82b4d13560aeed896867497c820e8))
+
 ## [9.0.2](https://github.com/brummelte/eslint-config/compare/v9.0.1...v9.0.2) (2022-05-29)
 
 
