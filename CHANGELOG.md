@@ -1,3 +1,10 @@
+## [9.0.6](https://github.com/brummelte/eslint-config/compare/v9.0.5...v9.0.6) (2022-06-01)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-testing-library to ^5.5.1 ([a5a4012](https://github.com/brummelte/eslint-config/commit/a5a4012c0d9a1fa46392e7e209db9d9727135d5b))
+
 ## [9.0.5](https://github.com/brummelte/eslint-config/compare/v9.0.4...v9.0.5) (2022-06-01)
 
 
