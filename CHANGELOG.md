@@ -1,3 +1,10 @@
+## [9.0.9](https://github.com/brummelte/eslint-config/compare/v9.0.8...v9.0.9) (2022-06-15)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @babel/eslint-parser to ^7.18.2 ([be4c727](https://github.com/brummelte/eslint-config/commit/be4c72745d9a96a3d799d2507fdb481c494c2e9d))
+
 ## [9.0.8](https://github.com/brummelte/eslint-config/compare/v9.0.7...v9.0.8) (2022-06-13)
 
 
