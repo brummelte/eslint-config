@@ -1,3 +1,10 @@
+## [9.0.15](https://github.com/brummelte/eslint-config/compare/v9.0.14...v9.0.15) (2022-07-05)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @rushstack/eslint-patch to ^1.1.4 ([cae6549](https://github.com/brummelte/eslint-config/commit/cae654925da835dc721d79ca7c52f3c4775f4748))
+
 ## [9.0.14](https://github.com/brummelte/eslint-config/compare/v9.0.13...v9.0.14) (2022-07-04)
 
 
