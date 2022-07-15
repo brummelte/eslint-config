@@ -8,6 +8,9 @@ module.exports = {
     parserOptions: {
         sourceType: 'module',
         requireConfigFile: false,
+        babelOptions: {
+            presets: [require.resolve('@babel/preset-react')],
+        },
     },
     extends: [
         require.resolve('./eslint-plugin-import-errors'),
