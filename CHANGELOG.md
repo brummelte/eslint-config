@@ -1,3 +1,10 @@
+# [9.1.0](https://github.com/brummelte/eslint-config/compare/v9.0.16...v9.1.0) (2022-07-15)
+
+
+### Features
+
+* fix jsx parsing ([e083fa9](https://github.com/brummelte/eslint-config/commit/e083fa917b9b302b8d5fd1d8b52db08c165fa03d))
+
 ## [9.0.16](https://github.com/brummelte/eslint-config/compare/v9.0.15...v9.0.16) (2022-07-15)
 
 
