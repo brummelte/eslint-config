@@ -1,3 +1,10 @@
+## [9.2.1](https://github.com/brummelte/eslint-config/compare/v9.2.0...v9.2.1) (2022-07-15)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-jsx-a11y to ^6.6.0 ([59594ac](https://github.com/brummelte/eslint-config/commit/59594acad08451e1d89c5b4d275fdb5136cbadef))
+
 # [9.2.0](https://github.com/brummelte/eslint-config/compare/v9.1.0...v9.2.0) (2022-07-15)
 
 
