@@ -1,3 +1,10 @@
+# [9.2.0](https://github.com/brummelte/eslint-config/compare/v9.1.0...v9.2.0) (2022-07-15)
+
+
+### Features
+
+* add linting for jsx files ([052700e](https://github.com/brummelte/eslint-config/commit/052700efef8367a53c7cc203170f21464d419d6e))
+
 # [9.1.0](https://github.com/brummelte/eslint-config/compare/v9.0.16...v9.1.0) (2022-07-15)
 
 
