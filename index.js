@@ -87,6 +87,10 @@ module.exports = {
     },
     overrides: [
         {
+            // Lint jsx files
+            files: ['*.jsx', '*.js'],
+        },
+        {
             files: [
                 '*.test.js',
                 'webpack.config.babel.js',
