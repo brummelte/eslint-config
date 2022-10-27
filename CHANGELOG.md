@@ -1,3 +1,10 @@
+## [9.2.11](https://github.com/brummelte/eslint-config/compare/v9.2.10...v9.2.11) (2022-10-27)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-functional to ^4.4.1 ([9dc05b2](https://github.com/brummelte/eslint-config/commit/9dc05b277f60dd8fd4e4b897bfdf0e4c2897f79d))
+
 ## [9.2.10](https://github.com/brummelte/eslint-config/compare/v9.2.9...v9.2.10) (2022-10-27)
 
 
