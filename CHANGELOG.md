@@ -1,3 +1,10 @@
+## [9.2.9](https://github.com/brummelte/eslint-config/compare/v9.2.8...v9.2.9) (2022-10-27)
+
+
+### Bug Fixes
+
+* **deps:** update babel monorepo ([342a68f](https://github.com/brummelte/eslint-config/commit/342a68fb9165e6361b7a458276a5eb893b44f5fb))
+
 ## [9.2.8](https://github.com/brummelte/eslint-config/compare/v9.2.7...v9.2.8) (2022-10-27)
 
 
