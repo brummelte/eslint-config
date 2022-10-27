@@ -1,3 +1,10 @@
+## [9.2.10](https://github.com/brummelte/eslint-config/compare/v9.2.9...v9.2.10) (2022-10-27)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @rushstack/eslint-patch to ^1.2.0 ([dbf17bd](https://github.com/brummelte/eslint-config/commit/dbf17bd0a9ada536c79f8426bc1ba06da9ed2283))
+
 ## [9.2.9](https://github.com/brummelte/eslint-config/compare/v9.2.8...v9.2.9) (2022-10-27)
 
 
