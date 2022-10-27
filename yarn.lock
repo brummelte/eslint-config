@@ -536,7 +536,7 @@ __metadata:
     eslint-plugin-prettier: ^4.2.1
     eslint-plugin-react: ^7.31.10
     eslint-plugin-react-hooks: ^4.6.0
-    eslint-plugin-testing-library: ^5.8.0
+    eslint-plugin-testing-library: ^5.9.0
     prettier: ^2.7.1
     semantic-release: ^19.0.5
   peerDependencies:
@@ -3389,7 +3389,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-testing-library@npm:^5.8.0":
+"eslint-plugin-testing-library@npm:^5.9.0":
   version: 5.9.1
   resolution: "eslint-plugin-testing-library@npm:5.9.1"
   dependencies:
