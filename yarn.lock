@@ -540,7 +540,7 @@ __metadata:
     prettier: ^2.7.1
     semantic-release: ^19.0.5
   peerDependencies:
-    eslint: ">=8.25.0"
+    eslint: ">=8.26.0"
   languageName: unknown
   linkType: soft
 
