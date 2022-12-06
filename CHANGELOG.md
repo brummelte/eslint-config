@@ -1,3 +1,10 @@
+## [9.2.22](https://github.com/brummelte/eslint-config/compare/v9.2.21...v9.2.22) (2022-12-06)
+
+
+### Bug Fixes
+
+* **deps:** update dependency prettier to ^2.8.0 ([8989273](https://github.com/brummelte/eslint-config/commit/89892738e51bb7ad6296c1c8757d2fa00fee8be5))
+
 ## [9.2.21](https://github.com/brummelte/eslint-config/compare/v9.2.20...v9.2.21) (2022-12-02)
 
 
