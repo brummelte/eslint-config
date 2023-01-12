@@ -1,3 +1,10 @@
+## [9.2.27](https://github.com/brummelte/eslint-config/compare/v9.2.26...v9.2.27) (2023-01-12)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-import to v2.27.4 ([7834c16](https://github.com/brummelte/eslint-config/commit/7834c1607b7deebe8ba24f7f015f9cc62ad656a3))
+
 ## [9.2.26](https://github.com/brummelte/eslint-config/compare/v9.2.25...v9.2.26) (2023-01-12)
 
 
