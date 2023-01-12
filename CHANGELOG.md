@@ -1,3 +1,13 @@
+## [9.2.26](https://github.com/brummelte/eslint-config/compare/v9.2.25...v9.2.26) (2023-01-12)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @babel/core to ^7.20.12 ([c4704ee](https://github.com/brummelte/eslint-config/commit/c4704eed43f3db0d562f0cde6d2c039e692b5f26))
+* **deps:** update dependency @babel/core to ^7.20.7 ([314a30c](https://github.com/brummelte/eslint-config/commit/314a30c373d9f120e6b37e2367f8d46fdb013803))
+* **deps:** update dependency eslint-config-prettier to ^8.6.0 ([0f2cc72](https://github.com/brummelte/eslint-config/commit/0f2cc72c6b7b6337754c7d59e6b384c7c1f7db91))
+* **deps:** update dependency eslint-plugin-jest to ^27.2.0 ([77f0314](https://github.com/brummelte/eslint-config/commit/77f0314276886a3c45675dd3e49a4066864f43cb))
+
 ## [9.2.25](https://github.com/brummelte/eslint-config/compare/v9.2.24...v9.2.25) (2022-12-23)
 
 
