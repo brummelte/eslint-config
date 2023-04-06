@@ -21,7 +21,7 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "eslint": ">=8.32.0"
+    "eslint": ">=8.37.0"
   },
   "dependencies": {
     "@babel/core": "^7.21.3",
@@ -50,7 +50,7 @@
     "@semantic-release/npm": "^10.0.2",
     "@semantic-release/release-notes-generator": "^10.0.3",
     "@yarnpkg/pnpify": "4.0.0-rc.41",
-    "eslint": "^8.32.0",
+    "eslint": "^8.37.0",
     "semantic-release": "^21.0.0"
   }
 }
