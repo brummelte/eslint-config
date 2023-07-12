@@ -576,7 +576,7 @@ __metadata:
     eslint-plugin-react-hooks: ^4.6.0
     eslint-plugin-testing-library: ^5.10.3
     prettier: ^2.8.8
-    semantic-release: ^21.0.6
+    semantic-release: ^21.0.7
   peerDependencies:
     eslint: ">=8.37.0"
   languageName: unknown
@@ -7826,7 +7826,7 @@ resolve@^1.20.0:
   languageName: node
   linkType: hard
 
-"semantic-release@npm:^21.0.6":
+"semantic-release@npm:^21.0.7":
   version: 21.0.7
   resolution: "semantic-release@npm:21.0.7"
   dependencies:
