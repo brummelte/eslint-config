@@ -142,10 +142,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/helpers", "npm:7.23.1"],\
             ["@babel/parser", "npm:7.23.0"],\
             ["@babel/template", "npm:7.22.15"],\
-            ["@babel/traverse", "npm:7.23.0"],\
+            ["@babel/traverse", "npm:7.23.2"],\
             ["@babel/types", "npm:7.23.0"],\
             ["convert-source-map", "npm:2.0.0"],\
-            ["debug", "virtual:16705129e75b4a8ecb1575778b0b7d7e2324fc834996e7b229b464b5c6a93026cc0e8ecf6df047d7dcec2ac22bad90b18627294ccbc38e08141bbb631a924b43#npm:4.1.1"],\
+            ["debug", "virtual:4758feee42453c0e31b0d2032a7b1362d6b06281699830d2da9a056f2cca72bd2c5cfdb74005fdf03a64876be8eaca2dd7b0fc2dc59d14318badf19cb22ba18e#npm:4.1.1"],\
             ["gensync", "npm:1.0.0-beta.2"],\
             ["json5", "npm:2.2.3"],\
             ["semver", "npm:6.3.1"]\
@@ -362,7 +362,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@babel/helpers", "npm:7.23.1"],\
             ["@babel/template", "npm:7.22.15"],\
-            ["@babel/traverse", "npm:7.23.0"],\
+            ["@babel/traverse", "npm:7.23.2"],\
             ["@babel/types", "npm:7.23.0"]\
           ],\
           "linkType": "HARD"\
@@ -608,10 +608,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@babel/traverse", [\
-        ["npm:7.23.0", {\
-          "packageLocation": "./.yarn/cache/@babel-traverse-npm-7.23.0-16705129e7-0b17fae532.zip/node_modules/@babel/traverse/",\
+        ["npm:7.23.2", {\
+          "packageLocation": "./.yarn/cache/@babel-traverse-npm-7.23.2-4758feee42-26a1eea0dd.zip/node_modules/@babel/traverse/",\
           "packageDependencies": [\
-            ["@babel/traverse", "npm:7.23.0"],\
+            ["@babel/traverse", "npm:7.23.2"],\
             ["@babel/code-frame", "npm:7.22.13"],\
             ["@babel/generator", "npm:7.23.0"],\
             ["@babel/helper-environment-visitor", "npm:7.22.20"],\
@@ -620,7 +620,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/helper-split-export-declaration", "npm:7.22.6"],\
             ["@babel/parser", "npm:7.23.0"],\
             ["@babel/types", "npm:7.23.0"],\
-            ["debug", "virtual:16705129e75b4a8ecb1575778b0b7d7e2324fc834996e7b229b464b5c6a93026cc0e8ecf6df047d7dcec2ac22bad90b18627294ccbc38e08141bbb631a924b43#npm:4.1.1"],\
+            ["debug", "virtual:4758feee42453c0e31b0d2032a7b1362d6b06281699830d2da9a056f2cca72bd2c5cfdb74005fdf03a64876be8eaca2dd7b0fc2dc59d14318badf19cb22ba18e#npm:4.1.1"],\
             ["globals", "npm:11.12.0"]\
           ],\
           "linkType": "HARD"\
@@ -765,7 +765,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@humanwhocodes/config-array", "npm:0.11.11"],\
             ["@humanwhocodes/object-schema", "npm:1.2.1"],\
-            ["debug", "virtual:16705129e75b4a8ecb1575778b0b7d7e2324fc834996e7b229b464b5c6a93026cc0e8ecf6df047d7dcec2ac22bad90b18627294ccbc38e08141bbb631a924b43#npm:4.1.1"],\
+            ["debug", "virtual:4758feee42453c0e31b0d2032a7b1362d6b06281699830d2da9a056f2cca72bd2c5cfdb74005fdf03a64876be8eaca2dd7b0fc2dc59d14318badf19cb22ba18e#npm:4.1.1"],\
             ["minimatch", "npm:3.1.2"]\
           ],\
           "linkType": "HARD"\
@@ -2544,7 +2544,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/agentkeepalive-npm-4.2.1-b86a9fb343-39cb49ed8c.zip/node_modules/agentkeepalive/",\
           "packageDependencies": [\
             ["agentkeepalive", "npm:4.2.1"],\
-            ["debug", "virtual:16705129e75b4a8ecb1575778b0b7d7e2324fc834996e7b229b464b5c6a93026cc0e8ecf6df047d7dcec2ac22bad90b18627294ccbc38e08141bbb631a924b43#npm:4.1.1"],\
+            ["debug", "virtual:4758feee42453c0e31b0d2032a7b1362d6b06281699830d2da9a056f2cca72bd2c5cfdb74005fdf03a64876be8eaca2dd7b0fc2dc59d14318badf19cb22ba18e#npm:4.1.1"],\
             ["depd", "npm:1.1.2"],\
             ["humanize-ms", "npm:1.2.1"]\
           ],\
@@ -3581,10 +3581,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:16705129e75b4a8ecb1575778b0b7d7e2324fc834996e7b229b464b5c6a93026cc0e8ecf6df047d7dcec2ac22bad90b18627294ccbc38e08141bbb631a924b43#npm:4.1.1", {\
-          "packageLocation": "./.yarn/__virtual__/debug-virtual-af7642d560/0/cache/debug-npm-4.1.1-540248b3aa-1e681f5cce.zip/node_modules/debug/",\
+        ["virtual:2a426afc4b2eef43db12a540d29c2b5476640459bfcd5c24f86bb401cf8cce97e63bd81794d206a5643057e7f662643afd5ce3dfc4d4bfd8e706006c6309c5fa#npm:3.2.7", {\
+          "packageLocation": "./.yarn/__virtual__/debug-virtual-d2345003b7/0/cache/debug-npm-3.2.7-754e818c7a-b3d8c59407.zip/node_modules/debug/",\
           "packageDependencies": [\
-            ["debug", "virtual:16705129e75b4a8ecb1575778b0b7d7e2324fc834996e7b229b464b5c6a93026cc0e8ecf6df047d7dcec2ac22bad90b18627294ccbc38e08141bbb631a924b43#npm:4.1.1"],\
+            ["debug", "virtual:2a426afc4b2eef43db12a540d29c2b5476640459bfcd5c24f86bb401cf8cce97e63bd81794d206a5643057e7f662643afd5ce3dfc4d4bfd8e706006c6309c5fa#npm:3.2.7"],\
             ["@types/supports-color", null],\
             ["ms", "npm:2.1.2"],\
             ["supports-color", null]\
@@ -3595,10 +3595,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["virtual:2a426afc4b2eef43db12a540d29c2b5476640459bfcd5c24f86bb401cf8cce97e63bd81794d206a5643057e7f662643afd5ce3dfc4d4bfd8e706006c6309c5fa#npm:3.2.7", {\
-          "packageLocation": "./.yarn/__virtual__/debug-virtual-d2345003b7/0/cache/debug-npm-3.2.7-754e818c7a-b3d8c59407.zip/node_modules/debug/",\
+        ["virtual:4758feee42453c0e31b0d2032a7b1362d6b06281699830d2da9a056f2cca72bd2c5cfdb74005fdf03a64876be8eaca2dd7b0fc2dc59d14318badf19cb22ba18e#npm:4.1.1", {\
+          "packageLocation": "./.yarn/__virtual__/debug-virtual-399297e067/0/cache/debug-npm-4.1.1-540248b3aa-1e681f5cce.zip/node_modules/debug/",\
           "packageDependencies": [\
-            ["debug", "virtual:2a426afc4b2eef43db12a540d29c2b5476640459bfcd5c24f86bb401cf8cce97e63bd81794d206a5643057e7f662643afd5ce3dfc4d4bfd8e706006c6309c5fa#npm:3.2.7"],\
+            ["debug", "virtual:4758feee42453c0e31b0d2032a7b1362d6b06281699830d2da9a056f2cca72bd2c5cfdb74005fdf03a64876be8eaca2dd7b0fc2dc59d14318badf19cb22ba18e#npm:4.1.1"],\
             ["@types/supports-color", null],\
             ["ms", "npm:2.1.2"],\
             ["supports-color", null]\
