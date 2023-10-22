@@ -1,3 +1,58 @@
+# [10.0.0](https://github.com/brummelte/eslint-config/compare/v9.2.29...v10.0.0) (2023-10-22)
+
+
+### Bug Fixes
+
+* **deps:** update @octokit/plugin-retry ([88a281e](https://github.com/brummelte/eslint-config/commit/88a281e2129578c13bd6e6594a452ec50c60471d))
+* **deps:** update babel monorepo ([c412bbf](https://github.com/brummelte/eslint-config/commit/c412bbfc2d85c49ddf471f62b697bf637282a48d))
+* **deps:** update babel monorepo to ^7.21.3 ([8dce8d0](https://github.com/brummelte/eslint-config/commit/8dce8d07461a15f70d94b0e05f42e5163512c6b3))
+* **deps:** update babel monorepo to ^7.21.8 ([bbdcfca](https://github.com/brummelte/eslint-config/commit/bbdcfca9d35291d8e9aa344cff0ccd3fd41a1a4c))
+* **deps:** update dependencies of semantic release ([dd6ac76](https://github.com/brummelte/eslint-config/commit/dd6ac767b741fa51ce4fb5ac9ff387d90c936713))
+* **deps:** update dependency @babel/core to ^7.21.4 ([185418a](https://github.com/brummelte/eslint-config/commit/185418acff3180b69990fc5c74f9cddb1737b206))
+* **deps:** update dependency @babel/core to ^7.21.5 ([d4a0151](https://github.com/brummelte/eslint-config/commit/d4a01514d792783e60ac098fb33edc0c4994f992))
+* **deps:** update dependency @babel/core to ^7.23.2 ([70da238](https://github.com/brummelte/eslint-config/commit/70da238047da3798a73b07ecbdb82a35a1d23070))
+* **deps:** update dependency @rushstack/eslint-patch to ^1.5.1 ([1305232](https://github.com/brummelte/eslint-config/commit/13052325c84c679087ecce76bc46ce7e7beab682))
+* **deps:** update dependency eslint-config-prettier to ^8.8.0 ([3ae2137](https://github.com/brummelte/eslint-config/commit/3ae2137f570c69d9de216f797af7172df7354fe3))
+* **deps:** update dependency eslint-config-prettier to v9 ([fff6016](https://github.com/brummelte/eslint-config/commit/fff6016e6949118ae5c438d7319f318a01c5d8aa))
+* **deps:** update dependency eslint-import-resolver-node to ^0.3.7 ([6314405](https://github.com/brummelte/eslint-config/commit/6314405b1f62604b3a3ad7b16d4f3d0fa35fb92e))
+* **deps:** update dependency eslint-import-resolver-node to ^0.3.9 ([1ee2362](https://github.com/brummelte/eslint-config/commit/1ee23626321fb41f6124b5d0c7644ea9f4abf3ed))
+* **deps:** update dependency eslint-plugin-import to v2.27.5 ([ff2bf3f](https://github.com/brummelte/eslint-config/commit/ff2bf3f982177a858629cfdad8b7a9431d7ac1c9))
+* **deps:** update dependency eslint-plugin-import to v2.28.1 ([d54b88e](https://github.com/brummelte/eslint-config/commit/d54b88ec9e6984325fc9a6361ef167e46401c6f3))
+* **deps:** update dependency eslint-plugin-jest to ^27.2.2 ([5675a83](https://github.com/brummelte/eslint-config/commit/5675a8364d2c969448292fa4db8597e212571c94))
+* **deps:** update dependency eslint-plugin-jest to ^27.2.3 ([6695719](https://github.com/brummelte/eslint-config/commit/6695719d52ed4e1229316f1a1edf35039507d880))
+* **deps:** update dependency eslint-plugin-jest-dom to v5 ([12c93ed](https://github.com/brummelte/eslint-config/commit/12c93ed7ef95600e1f423bb396614a14c8d61ec4))
+* **deps:** update dependency eslint-plugin-jsx-a11y to ^6.7.1 ([2c52ee2](https://github.com/brummelte/eslint-config/commit/2c52ee2791c3877ab88a686297d97df5e1043b66))
+* **deps:** update dependency eslint-plugin-react to ^7.32.0 ([475b022](https://github.com/brummelte/eslint-config/commit/475b022887ae07390b0c736b172e7531edc63878))
+* **deps:** update dependency eslint-plugin-react to ^7.32.1 ([b16fa4f](https://github.com/brummelte/eslint-config/commit/b16fa4f664eaf2f1c824ca9a13128eb0182dfd04))
+* **deps:** update dependency eslint-plugin-react to ^7.32.2 ([32a3470](https://github.com/brummelte/eslint-config/commit/32a34701a8627c59b974c1dccf09cedb81f27ad5))
+* **deps:** update dependency eslint-plugin-react to ^7.33.1 ([95af141](https://github.com/brummelte/eslint-config/commit/95af14150e963f0d0d4cfc06e24236a7ea05edba))
+* **deps:** update dependency eslint-plugin-testing-library to ^5.10.0 ([9c4979a](https://github.com/brummelte/eslint-config/commit/9c4979a1e2d0d39761cece30c9ce1e8ed2d18917))
+* **deps:** update dependency eslint-plugin-testing-library to ^5.10.1 ([716788e](https://github.com/brummelte/eslint-config/commit/716788eca000145a20f6eed2ee0056b023b938a5))
+* **deps:** update dependency eslint-plugin-testing-library to ^5.10.2 ([7d9e0d0](https://github.com/brummelte/eslint-config/commit/7d9e0d07d476a37fae6e86594c2c4f21f9146504))
+* **deps:** update dependency eslint-plugin-testing-library to ^5.10.3 ([1b2ed0d](https://github.com/brummelte/eslint-config/commit/1b2ed0dc78561a228637e121afdd61f566ab664d))
+* **deps:** update dependency eslint-plugin-testing-library to ^5.11.1 ([280582d](https://github.com/brummelte/eslint-config/commit/280582d09018e2afc66dc482f93dc8d8c2a52faf))
+* **deps:** update dependency prettier to ^2.8.3 ([e446b13](https://github.com/brummelte/eslint-config/commit/e446b134cbd40ce6b91f2632c878cb71958e709b))
+* **deps:** update dependency prettier to ^2.8.4 ([3633d6f](https://github.com/brummelte/eslint-config/commit/3633d6fcef5cffe81e3f1c8219ce1b9d06b7a80c))
+* **deps:** update dependency prettier to ^2.8.5 ([3478007](https://github.com/brummelte/eslint-config/commit/347800765f8be518bb9cc9ced25cc9544f08724e))
+* **deps:** update dependency prettier to ^2.8.6 ([45d7c33](https://github.com/brummelte/eslint-config/commit/45d7c3302f158a6d893bf73bc233e6f1df387025))
+* **deps:** update dependency prettier to ^2.8.7 ([eb9d93e](https://github.com/brummelte/eslint-config/commit/eb9d93ef6d9ed389111e9f24cd7ee1ed4530cf56))
+* **deps:** update dependency prettier to ^2.8.8 ([4d5e5c5](https://github.com/brummelte/eslint-config/commit/4d5e5c5c4f485b89743cfb702a2042808e562187))
+* **deps:** update node in workflows ([d4b0418](https://github.com/brummelte/eslint-config/commit/d4b04189481264da91e92caae1cc929fbcb8120b))
+
+
+* fix(deps)!: update dependency prettier to v3 ([00dcf04](https://github.com/brummelte/eslint-config/commit/00dcf04cd63feb443f969925f8a0a2c39729704d))
+
+
+### Features
+
+* add import statement sorting ([ebf0239](https://github.com/brummelte/eslint-config/commit/ebf02395ee07d24f3850e7ea2e240a88b8bb8366))
+* upgrade yarn ([b45bd77](https://github.com/brummelte/eslint-config/commit/b45bd7716d0fecb446bf8dc357abbac50d687e67))
+
+
+### BREAKING CHANGES
+
+* update potentially breaking
+
 ## [9.2.29](https://github.com/brummelte/eslint-config/compare/v9.2.28...v9.2.29) (2023-01-14)
 
 
