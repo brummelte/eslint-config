@@ -1,3 +1,10 @@
+## [10.0.2](https://github.com/brummelte/eslint-config/compare/v10.0.1...v10.0.2) (2023-10-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-react to ^7.33.2 ([6572a86](https://github.com/brummelte/eslint-config/commit/6572a86ec4f93b3a57d300233a0a09fcd7c837c5))
+
 ## [10.0.1](https://github.com/brummelte/eslint-config/compare/v10.0.0...v10.0.1) (2023-10-22)
 
 
