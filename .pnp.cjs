@@ -43,7 +43,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@semantic-release/github", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:9.2.1"],\
             ["@semantic-release/npm", "virtual:ef3ebea60966f008525206b1498e315460a4401b5d38d794be05ccd506cbb39e38f600de84a2c579b63d9c47f6a1940879c71a078582a109790292f3ca0b61cb#npm:11.0.0"],\
             ["@semantic-release/release-notes-generator", "virtual:ef3ebea60966f008525206b1498e315460a4401b5d38d794be05ccd506cbb39e38f600de84a2c579b63d9c47f6a1940879c71a078582a109790292f3ca0b61cb#npm:12.0.0"],\
-            ["@yarnpkg/pnpify", "npm:4.0.0-rc.51"],\
+            ["@yarnpkg/pnpify", "npm:4.0.0-rc.53"],\
             ["eslint", "npm:8.50.0"],\
             ["eslint-config-prettier", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:9.0.0"],\
             ["eslint-import-resolver-node", "npm:0.3.9"],\
@@ -643,7 +643,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@semantic-release/github", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:9.2.1"],\
             ["@semantic-release/npm", "virtual:ef3ebea60966f008525206b1498e315460a4401b5d38d794be05ccd506cbb39e38f600de84a2c579b63d9c47f6a1940879c71a078582a109790292f3ca0b61cb#npm:11.0.0"],\
             ["@semantic-release/release-notes-generator", "virtual:ef3ebea60966f008525206b1498e315460a4401b5d38d794be05ccd506cbb39e38f600de84a2c579b63d9c47f6a1940879c71a078582a109790292f3ca0b61cb#npm:12.0.0"],\
-            ["@yarnpkg/pnpify", "npm:4.0.0-rc.51"],\
+            ["@yarnpkg/pnpify", "npm:4.0.0-rc.53"],\
             ["eslint", "npm:8.50.0"],\
             ["eslint-config-prettier", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:9.0.0"],\
             ["eslint-import-resolver-node", "npm:0.3.9"],\
@@ -2396,10 +2396,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@yarnpkg/pnpify", [\
-        ["npm:4.0.0-rc.51", {\
-          "packageLocation": "./.yarn/cache/@yarnpkg-pnpify-npm-4.0.0-rc.51-d205a326b1-651f48c109.zip/node_modules/@yarnpkg/pnpify/",\
+        ["npm:4.0.0-rc.53", {\
+          "packageLocation": "./.yarn/cache/@yarnpkg-pnpify-npm-4.0.0-rc.53-f2c65a6ce0-9c55d2d806.zip/node_modules/@yarnpkg/pnpify/",\
           "packageDependencies": [\
-            ["@yarnpkg/pnpify", "npm:4.0.0-rc.51"],\
+            ["@yarnpkg/pnpify", "npm:4.0.0-rc.53"],\
             ["@yarnpkg/core", "npm:4.0.0-rc.53"],\
             ["@yarnpkg/fslib", "npm:3.0.0-rc.53"],\
             ["@yarnpkg/nm", "npm:4.0.0-rc.53"],\

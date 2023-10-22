@@ -458,7 +458,7 @@ __metadata:
     "@semantic-release/github": ^9.2.1
     "@semantic-release/npm": ^11.0.0
     "@semantic-release/release-notes-generator": ^12.0.0
-    "@yarnpkg/pnpify": 4.0.0-rc.51
+    "@yarnpkg/pnpify": 4.0.0-rc.53
     eslint: ^8.50.0
     eslint-config-prettier: ^9.0.0
     eslint-import-resolver-node: ^0.3.9
@@ -1794,7 +1794,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@yarnpkg/core@npm:^4.0.0-rc.51, @yarnpkg/core@npm:^4.0.0-rc.53":
+"@yarnpkg/core@npm:^4.0.0-rc.53":
   version: 4.0.0-rc.53
   resolution: "@yarnpkg/core@npm:4.0.0-rc.53"
   dependencies:
@@ -1828,7 +1828,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@yarnpkg/fslib@npm:^3.0.0-rc.51, @yarnpkg/fslib@npm:^3.0.0-rc.53":
+"@yarnpkg/fslib@npm:^3.0.0-rc.53":
   version: 3.0.0-rc.53
   resolution: "@yarnpkg/fslib@npm:3.0.0-rc.53"
   dependencies:
@@ -1850,7 +1850,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@yarnpkg/nm@npm:^4.0.0-rc.51":
+"@yarnpkg/nm@npm:^4.0.0-rc.53":
   version: 4.0.0-rc.53
   resolution: "@yarnpkg/nm@npm:4.0.0-rc.53"
   dependencies:
@@ -1881,18 +1881,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@yarnpkg/pnpify@npm:4.0.0-rc.51":
-  version: 4.0.0-rc.51
-  resolution: "@yarnpkg/pnpify@npm:4.0.0-rc.51"
+"@yarnpkg/pnpify@npm:4.0.0-rc.53":
+  version: 4.0.0-rc.53
+  resolution: "@yarnpkg/pnpify@npm:4.0.0-rc.53"
   dependencies:
-    "@yarnpkg/core": ^4.0.0-rc.51
-    "@yarnpkg/fslib": ^3.0.0-rc.51
-    "@yarnpkg/nm": ^4.0.0-rc.51
+    "@yarnpkg/core": ^4.0.0-rc.53
+    "@yarnpkg/fslib": ^3.0.0-rc.53
+    "@yarnpkg/nm": ^4.0.0-rc.53
     clipanion: ^4.0.0-rc.2
     tslib: ^2.4.0
   bin:
     pnpify: ./lib/cli.js
-  checksum: 651f48c109b84c81109ceb43192243d9a21d5f4d55e172fc54999348f706e4dc2fd9cedb06f15334da887fa9548f51bfe43e24443e1b9e74fb8ee34ba42c58e1
+  checksum: 9c55d2d806d5ff0fb50fe74cb1fc507927bc2bf190583841a83aa5978ce6a29bc328258fbde362fcbeb3b3ff101a87a2209fa2fce4d65832b7402504d0b2c626
   languageName: node
   linkType: hard
 
