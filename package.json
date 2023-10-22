@@ -52,5 +52,6 @@
     "@yarnpkg/pnpify": "4.0.0-rc.53",
     "eslint": "^8.50.0",
     "semantic-release": "^22.0.5"
-  }
+  },
+  "packageManager": "yarn@3.6.4"
 }
