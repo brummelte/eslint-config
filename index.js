@@ -49,7 +49,12 @@ module.exports = {
         'import/no-extraneous-dependencies': ['error'],
         'import/order': [
             'error',
-            { groups: ['builtin', 'external', 'internal', 'parent', 'sibling', 'index'] },
+            {
+                groups: ['builtin', 'external', 'internal', 'parent', 'sibling', 'index'],
+                distinctGroup: true,
+                warnOnUnassignedImports: false,
+                alphabetize: { order: 'asc' },
+            },
         ],
         'no-inline-comments': ['error'],
         'no-restricted-syntax': ['error', 'ForInStatement', 'LabeledStatement', 'WithStatement'],
