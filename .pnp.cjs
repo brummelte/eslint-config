@@ -37,7 +37,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@semantic-release/git", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:10.0.1"],\
             ["@semantic-release/github", "virtual:1d49a9ab5a66b6fbb4064f6b65e11e2ff6b342f82bad0d5b9d43609fc1a0ad8dea94a532cf245e9ef40ee0160c31cc13189c265a56878dc62618abed0d5c584a#npm:9.2.1"],\
             ["@semantic-release/npm", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:11.0.1"],\
-            ["@semantic-release/release-notes-generator", "virtual:1d49a9ab5a66b6fbb4064f6b65e11e2ff6b342f82bad0d5b9d43609fc1a0ad8dea94a532cf245e9ef40ee0160c31cc13189c265a56878dc62618abed0d5c584a#npm:12.0.0"],\
+            ["@semantic-release/release-notes-generator", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:12.1.0"],\
             ["@yarnpkg/pnpify", "npm:4.0.0"],\
             ["eslint", "npm:8.52.0"],\
             ["eslint-config-prettier", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:9.0.0"],\
@@ -594,7 +594,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@semantic-release/git", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:10.0.1"],\
             ["@semantic-release/github", "virtual:1d49a9ab5a66b6fbb4064f6b65e11e2ff6b342f82bad0d5b9d43609fc1a0ad8dea94a532cf245e9ef40ee0160c31cc13189c265a56878dc62618abed0d5c584a#npm:9.2.1"],\
             ["@semantic-release/npm", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:11.0.1"],\
-            ["@semantic-release/release-notes-generator", "virtual:1d49a9ab5a66b6fbb4064f6b65e11e2ff6b342f82bad0d5b9d43609fc1a0ad8dea94a532cf245e9ef40ee0160c31cc13189c265a56878dc62618abed0d5c584a#npm:12.0.0"],\
+            ["@semantic-release/release-notes-generator", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:12.1.0"],\
             ["@yarnpkg/pnpify", "npm:4.0.0"],\
             ["eslint", "npm:8.52.0"],\
             ["eslint-config-prettier", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:9.0.0"],\
@@ -1561,6 +1561,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
+        ["npm:12.1.0", {\
+          "packageLocation": "./.yarn/cache/@semantic-release-release-notes-generator-npm-12.1.0-866cd1b0ca-7e177c77a6.zip/node_modules/@semantic-release/release-notes-generator/",\
+          "packageDependencies": [\
+            ["@semantic-release/release-notes-generator", "npm:12.1.0"]\
+          ],\
+          "linkType": "SOFT"\
+        }],\
         ["virtual:1d49a9ab5a66b6fbb4064f6b65e11e2ff6b342f82bad0d5b9d43609fc1a0ad8dea94a532cf245e9ef40ee0160c31cc13189c265a56878dc62618abed0d5c584a#npm:12.0.0", {\
           "packageLocation": "./.yarn/__virtual__/@semantic-release-release-notes-generator-virtual-aa863ac9dd/0/cache/@semantic-release-release-notes-generator-npm-12.0.0-102466c0f2-91c757c6cc.zip/node_modules/@semantic-release/release-notes-generator/",\
           "packageDependencies": [\
@@ -1576,6 +1583,29 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["into-stream", "npm:7.0.0"],\
             ["lodash-es", "npm:4.17.21"],\
             ["read-pkg-up", "npm:10.1.0"],\
+            ["semantic-release", "npm:22.0.7"]\
+          ],\
+          "packagePeers": [\
+            "@types/semantic-release",\
+            "semantic-release"\
+          ],\
+          "linkType": "HARD"\
+        }],\
+        ["virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:12.1.0", {\
+          "packageLocation": "./.yarn/__virtual__/@semantic-release-release-notes-generator-virtual-c4af4c86aa/0/cache/@semantic-release-release-notes-generator-npm-12.1.0-866cd1b0ca-7e177c77a6.zip/node_modules/@semantic-release/release-notes-generator/",\
+          "packageDependencies": [\
+            ["@semantic-release/release-notes-generator", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:12.1.0"],\
+            ["@types/semantic-release", null],\
+            ["conventional-changelog-angular", "npm:7.0.0"],\
+            ["conventional-changelog-writer", "npm:7.0.1"],\
+            ["conventional-commits-filter", "npm:4.0.0"],\
+            ["conventional-commits-parser", "npm:5.0.0"],\
+            ["debug", "virtual:1d49a9ab5a66b6fbb4064f6b65e11e2ff6b342f82bad0d5b9d43609fc1a0ad8dea94a532cf245e9ef40ee0160c31cc13189c265a56878dc62618abed0d5c584a#npm:4.3.4"],\
+            ["get-stream", "npm:7.0.1"],\
+            ["import-from-esm", "npm:1.2.1"],\
+            ["into-stream", "npm:7.0.0"],\
+            ["lodash-es", "npm:4.17.21"],\
+            ["read-pkg-up", "npm:11.0.0"],\
             ["semantic-release", "npm:22.0.7"]\
           ],\
           "packagePeers": [\
@@ -5718,6 +5748,25 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/import-from-npm-4.0.0-e5a38cbb8a-1fa29c05b0.zip/node_modules/import-from/",\
           "packageDependencies": [\
             ["import-from", "npm:4.0.0"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["import-from-esm", [\
+        ["npm:1.2.1", {\
+          "packageLocation": "./.yarn/cache/import-from-esm-npm-1.2.1-19132a3a23-17275e7d51.zip/node_modules/import-from-esm/",\
+          "packageDependencies": [\
+            ["import-from-esm", "npm:1.2.1"],\
+            ["import-meta-resolve", "npm:4.0.0"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["import-meta-resolve", [\
+        ["npm:4.0.0", {\
+          "packageLocation": "./.yarn/cache/import-meta-resolve-npm-4.0.0-13a6ef4fd3-51c50115fd.zip/node_modules/import-meta-resolve/",\
+          "packageDependencies": [\
+            ["import-meta-resolve", "npm:4.0.0"]\
           ],\
           "linkType": "HARD"\
         }]\
