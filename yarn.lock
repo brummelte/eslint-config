@@ -406,7 +406,7 @@ __metadata:
     "@babel/preset-react": ^7.22.15
     "@rushstack/eslint-patch": ^1.5.1
     "@semantic-release/changelog": ^6.0.3
-    "@semantic-release/commit-analyzer": ^11.0.0
+    "@semantic-release/commit-analyzer": ^11.1.0
     "@semantic-release/git": ^10.0.1
     "@semantic-release/github": ^9.2.1
     "@semantic-release/npm": ^11.0.1
@@ -1078,6 +1078,23 @@ __metadata:
   peerDependencies:
     semantic-release: ">=20.1.0"
   checksum: 4714b51128c1b0a7168ed800d5a34b0e37bac66e9d8165930d3d05a22d80b213d4076d993ddbb8d0023f9d8fd6c6630da9c0c1be55687a5dc278d6812442259e
+  languageName: node
+  linkType: hard
+
+"@semantic-release/commit-analyzer@npm:^11.1.0":
+  version: 11.1.0
+  resolution: "@semantic-release/commit-analyzer@npm:11.1.0"
+  dependencies:
+    conventional-changelog-angular: ^7.0.0
+    conventional-commits-filter: ^4.0.0
+    conventional-commits-parser: ^5.0.0
+    debug: ^4.0.0
+    import-from-esm: ^1.0.3
+    lodash-es: ^4.17.21
+    micromatch: ^4.0.2
+  peerDependencies:
+    semantic-release: ">=20.1.0"
+  checksum: 773e855bfee6d917f4145e1c85940cdf028d00efa197dabea4a86b8d31c6d5609767da147c93ec61d4cc36b74b1c10703482cc15ecab9c468c52e4e177863262
   languageName: node
   linkType: hard
 
