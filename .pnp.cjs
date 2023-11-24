@@ -2234,7 +2234,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["dotenv", "npm:16.3.1"],\
             ["fast-glob", "npm:3.2.4"],\
             ["got", "npm:11.8.0"],\
-            ["lodash", "npm:4.17.15"],\
+            ["lodash", "npm:4.17.21"],\
             ["micromatch", "npm:4.0.2"],\
             ["p-limit", "npm:2.2.1"],\
             ["semver", "npm:7.5.4"],\
@@ -7065,13 +7065,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["lodash", [\
-        ["npm:4.17.15", {\
-          "packageLocation": "./.yarn/cache/lodash-npm-4.17.15-566d9324f7-bb689bc88c.zip/node_modules/lodash/",\
-          "packageDependencies": [\
-            ["lodash", "npm:4.17.15"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:4.17.21", {\
           "packageLocation": "./.yarn/cache/lodash-npm-4.17.21-6382451519-eb835a2e51.zip/node_modules/lodash/",\
           "packageDependencies": [\
