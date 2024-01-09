@@ -24,7 +24,7 @@
     "eslint": ">=8.51.0"
   },
   "dependencies": {
-    "@babel/core": "^7.23.3",
+    "@babel/core": "^7.23.7",
     "@babel/eslint-parser": "^7.22.15",
     "@babel/preset-react": "^7.22.15",
     "@rushstack/eslint-patch": "^1.5.1",
