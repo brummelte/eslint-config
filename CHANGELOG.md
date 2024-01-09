@@ -1,3 +1,13 @@
+## [10.0.9](https://github.com/brummelte/eslint-config/compare/v10.0.8...v10.0.9) (2024-01-09)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @rushstack/eslint-patch to ^1.6.1 ([b7ad163](https://github.com/brummelte/eslint-config/commit/b7ad1638a9040ea002f9e9bd1e51dc44b4b73d3c))
+* **deps:** update dependency eslint-plugin-import to v2.29.1 ([e02df90](https://github.com/brummelte/eslint-config/commit/e02df90b8b4d1cf94506a442f10fffcd6e195348))
+* **deps:** update dependency eslint-plugin-prettier to ^5.1.2 ([b7ac8bb](https://github.com/brummelte/eslint-config/commit/b7ac8bbf1037f93acbaff83e8ed3915299bd1db0))
+* **deps:** update dependency prettier to ^3.1.1 ([d605a07](https://github.com/brummelte/eslint-config/commit/d605a07d5010890e6e2ef6f86272c51a7b6dc5ba))
+
 ## [10.0.8](https://github.com/brummelte/eslint-config/compare/v10.0.7...v10.0.8) (2024-01-09)
 
 
