@@ -1,3 +1,10 @@
+## [10.0.6](https://github.com/brummelte/eslint-config/compare/v10.0.5...v10.0.6) (2024-01-09)
+
+
+### Bug Fixes
+
+* **deps:** fix is-bigint trying to access has-bigints ([0a0fd90](https://github.com/brummelte/eslint-config/commit/0a0fd9078e9c1d1e99a3b23e35836add8b69c8e4))
+
 ## [10.0.5](https://github.com/brummelte/eslint-config/compare/v10.0.4...v10.0.5) (2023-11-16)
 
 
