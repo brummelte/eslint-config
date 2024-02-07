@@ -81,7 +81,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/eslint-parser@npm:^7.23.9":
+"@babel/eslint-parser@npm:^7.23.10":
   version: 7.23.10
   resolution: "@babel/eslint-parser@npm:7.23.10"
   dependencies:
@@ -479,7 +479,7 @@ __metadata:
   resolution: "@brummelte/eslint-config@workspace:."
   dependencies:
     "@babel/core": ^7.23.9
-    "@babel/eslint-parser": ^7.23.9
+    "@babel/eslint-parser": ^7.23.10
     "@babel/preset-react": ^7.23.3
     "@rushstack/eslint-patch": ^1.6.1
     "@semantic-release/changelog": ^6.0.3
