@@ -1,3 +1,10 @@
+## [10.0.18](https://github.com/brummelte/eslint-config/compare/v10.0.17...v10.0.18) (2024-02-20)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @rushstack/eslint-patch to ^1.7.2 ([8626457](https://github.com/brummelte/eslint-config/commit/8626457256e89b2995f6ee063202882df16cb76d))
+
 ## [10.0.17](https://github.com/brummelte/eslint-config/compare/v10.0.16...v10.0.17) (2024-02-07)
 
 
