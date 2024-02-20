@@ -53,5 +53,5 @@
     "eslint": "^8.56.0",
     "semantic-release": "^22.0.12"
   },
-  "packageManager": "yarn@3.8.0"
+  "packageManager": "yarn@4.1.0"
 }
