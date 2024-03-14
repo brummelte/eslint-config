@@ -51,7 +51,8 @@ const RAW_RUNTIME_STATE =
           ["eslint-plugin-react-hooks", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:4.6.0"],\
           ["eslint-plugin-testing-library", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:5.11.1"],\
           ["prettier", "npm:3.2.5"],\
-          ["semantic-release", "npm:23.0.2"]\
+          ["semantic-release", "npm:23.0.2"],\
+          ["typescript", "patch:typescript@npm%3A5.4.2#optional!builtin<compat/typescript>::version=5.4.2&hash=5adc0c"]\
         ],\
         "linkType": "SOFT"\
       }]\
@@ -679,7 +680,8 @@ const RAW_RUNTIME_STATE =
           ["eslint-plugin-react-hooks", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:4.6.0"],\
           ["eslint-plugin-testing-library", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:5.11.1"],\
           ["prettier", "npm:3.2.5"],\
-          ["semantic-release", "npm:23.0.2"]\
+          ["semantic-release", "npm:23.0.2"],\
+          ["typescript", "patch:typescript@npm%3A5.4.2#optional!builtin<compat/typescript>::version=5.4.2&hash=5adc0c"]\
         ],\
         "linkType": "SOFT"\
       }]\
@@ -4764,7 +4766,7 @@ const RAW_RUNTIME_STATE =
           ["eslint", "npm:8.57.0"],\
           ["semver", "npm:7.5.4"],\
           ["tsutils", null],\
-          ["typescript", null]\
+          ["typescript", "patch:typescript@npm%3A5.4.2#optional!builtin<compat/typescript>::version=5.4.2&hash=5adc0c"]\
         ],\
         "packagePeers": [\
           "@types/eslint",\
@@ -10948,6 +10950,15 @@ const RAW_RUNTIME_STATE =
           ["has-proto", "npm:1.0.3"],\
           ["is-typed-array", "npm:1.1.13"],\
           ["possible-typed-array-names", "npm:1.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["typescript", [\
+      ["patch:typescript@npm%3A5.4.2#optional!builtin<compat/typescript>::version=5.4.2&hash=5adc0c", {\
+        "packageLocation": "./.yarn/cache/typescript-patch-c145cea93e-fcf6658073.zip/node_modules/typescript/",\
+        "packageDependencies": [\
+          ["typescript", "patch:typescript@npm%3A5.4.2#optional!builtin<compat/typescript>::version=5.4.2&hash=5adc0c"]\
         ],\
         "linkType": "HARD"\
       }]\
