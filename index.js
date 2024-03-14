@@ -34,6 +34,7 @@ module.exports = {
     env: { es6: true, node: true },
     settings: {
         'import/ignore': ['node_modules'],
+        'import/resolver': { node: { extensions: ['.js', '.jsx', '.mdx'] } },
         react: { version: 'detect' },
         jest: { version: 26 },
     },
