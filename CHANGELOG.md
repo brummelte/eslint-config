@@ -1,3 +1,19 @@
+# [10.1.0](https://github.com/brummelte/eslint-config/compare/v10.0.18...v10.1.0) (2024-03-14)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @babel/core to ^7.24.0 ([f412c02](https://github.com/brummelte/eslint-config/commit/f412c0254c08c494036f0b179c594fbb84477b30))
+* **deps:** update dependency eslint-plugin-jest to ^27.9.0 ([118469d](https://github.com/brummelte/eslint-config/commit/118469d6dda77d3ca71505356ca7a43994ca2f55))
+* **deps:** update dependency eslint-plugin-react to ^7.34.0 ([41ea4bb](https://github.com/brummelte/eslint-config/commit/41ea4bb6609611e4a3a8ce29df88223e2ce8472c))
+* **deps:** update dependency prettier to ^3.2.5 ([845959e](https://github.com/brummelte/eslint-config/commit/845959ede7ca4d132e4155f5e6e7e3337ee51c21))
+* upgrade node to v20 ([c39f756](https://github.com/brummelte/eslint-config/commit/c39f756d3ed3fb1589caedac05bea247399ad10f))
+
+
+### Features
+
+* add mdx resolver settings ([8bdc29f](https://github.com/brummelte/eslint-config/commit/8bdc29fc36fec6736cea94329cf171f88990f051))
+
 ## [10.0.18](https://github.com/brummelte/eslint-config/compare/v10.0.17...v10.0.18) (2024-02-20)
 
 
