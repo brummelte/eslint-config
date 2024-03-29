@@ -1,3 +1,10 @@
+## [10.1.4](https://github.com/brummelte/eslint-config/compare/v10.1.3...v10.1.4) (2024-03-29)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-jest-dom to ^5.1.1 ([f44ea10](https://github.com/brummelte/eslint-config/commit/f44ea10d7b8bd1c1e673845430caf0f99759715f))
+
 ## [10.1.3](https://github.com/brummelte/eslint-config/compare/v10.1.2...v10.1.3) (2024-03-27)
 
 
