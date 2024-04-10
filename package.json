@@ -52,7 +52,7 @@
     "@semantic-release/release-notes-generator": "^12.1.0",
     "@yarnpkg/pnpify": "4.0.1",
     "eslint": "^8.57.0",
-    "semantic-release": "^23.0.6",
+    "semantic-release": "^23.0.7",
     "typescript": "^5.4.3"
   }
 }
