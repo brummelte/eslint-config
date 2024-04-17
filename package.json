@@ -53,6 +53,6 @@
     "@yarnpkg/pnpify": "4.0.1",
     "eslint": "^8.57.0",
     "semantic-release": "^23.0.8",
-    "typescript": "^5.4.4"
+    "typescript": "^5.4.5"
   }
 }
