@@ -1,3 +1,10 @@
+## [10.1.10](https://github.com/brummelte/eslint-config/compare/v10.1.9...v10.1.10) (2024-05-03)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-react-hooks to ^4.6.2 ([11a0204](https://github.com/brummelte/eslint-config/commit/11a0204c286b70f827d7f08480a228cc9084864e))
+
 ## [10.1.9](https://github.com/brummelte/eslint-config/compare/v10.1.8...v10.1.9) (2024-04-18)
 
 
