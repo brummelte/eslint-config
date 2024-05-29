@@ -565,7 +565,7 @@ __metadata:
     "@semantic-release/changelog": "npm:^6.0.3"
     "@semantic-release/commit-analyzer": "npm:^12.0.0"
     "@semantic-release/git": "npm:^10.0.1"
-    "@semantic-release/github": "npm:^10.0.4"
+    "@semantic-release/github": "npm:^10.0.5"
     "@semantic-release/npm": "npm:^12.0.1"
     "@semantic-release/release-notes-generator": "npm:^13.0.0"
     "@yarnpkg/pnpify": "npm:4.0.1"
@@ -1358,7 +1358,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@semantic-release/github@npm:^10.0.4":
+"@semantic-release/github@npm:^10.0.5":
   version: 10.0.5
   resolution: "@semantic-release/github@npm:10.0.5"
   dependencies:
