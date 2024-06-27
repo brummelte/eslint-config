@@ -5251,7 +5251,7 @@ const RAW_RUNTIME_STATE =
           ["fast-glob", "npm:3.2.4"],\
           ["@nodelib/fs.stat", "npm:2.0.3"],\
           ["@nodelib/fs.walk", "npm:1.2.4"],\
-          ["glob-parent", "npm:5.1.1"],\
+          ["glob-parent", "npm:5.1.2"],\
           ["merge2", "npm:1.4.1"],\
           ["micromatch", "npm:4.0.2"],\
           ["picomatch", "npm:2.2.1"]\
@@ -5754,14 +5754,6 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["glob-parent", [\
-      ["npm:5.1.1", {\
-        "packageLocation": "./.yarn/cache/glob-parent-npm-5.1.1-57b061cd88-8f7d360cfc.zip/node_modules/glob-parent/",\
-        "packageDependencies": [\
-          ["glob-parent", "npm:5.1.1"],\
-          ["is-glob", "npm:4.0.1"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
       ["npm:5.1.2", {\
         "packageLocation": "./.yarn/cache/glob-parent-npm-5.1.2-021ab32634-cab87638e2.zip/node_modules/glob-parent/",\
         "packageDependencies": [\
