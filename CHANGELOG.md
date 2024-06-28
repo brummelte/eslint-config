@@ -1,3 +1,12 @@
+## [10.1.17](https://github.com/brummelte/eslint-config/compare/v10.1.16...v10.1.17) (2024-06-28)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-jest to v28 ([7a7fe9e](https://github.com/brummelte/eslint-config/commit/7a7fe9ea7d67f1a764cc0842e533f7c5ac4d9e91))
+* **deps:** update dependency eslint-plugin-jsx-a11y to ^6.9.0 ([76d4df8](https://github.com/brummelte/eslint-config/commit/76d4df862ad72938a1b310479bc5ddbc0774dae4))
+* **deps:** update dependency prettier to ^3.3.2 ([6675ea4](https://github.com/brummelte/eslint-config/commit/6675ea4857098f5e40d47ff8a06d72aaa007345f))
+
 ## [10.1.16](https://github.com/brummelte/eslint-config/compare/v10.1.15...v10.1.16) (2024-06-26)
 
 
