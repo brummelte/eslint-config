@@ -58,7 +58,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/core@npm:^7.24.8":
+"@babel/core@npm:^7.24.9":
   version: 7.24.9
   resolution: "@babel/core@npm:7.24.9"
   dependencies:
@@ -488,7 +488,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@brummelte/eslint-config@workspace:."
   dependencies:
-    "@babel/core": "npm:^7.24.8"
+    "@babel/core": "npm:^7.24.9"
     "@babel/eslint-parser": "npm:^7.24.8"
     "@babel/preset-react": "npm:^7.24.7"
     "@rushstack/eslint-patch": "npm:^1.10.3"
