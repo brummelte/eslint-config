@@ -30,7 +30,7 @@ const RAW_RUNTIME_STATE =
           ["@babel/core", "npm:7.24.9"],\
           ["@babel/eslint-parser", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:7.24.8"],\
           ["@babel/preset-react", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:7.24.7"],\
-          ["@rushstack/eslint-patch", "npm:1.10.3"],\
+          ["@rushstack/eslint-patch", "npm:1.10.4"],\
           ["@semantic-release/changelog", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:6.0.3"],\
           ["@semantic-release/commit-analyzer", "virtual:9869a19b9cac301da62b60e4309d3a1bba47ad8222f27bd70feaff25a104c869d506dded55468019f6fee38fd7baa67c620ade0e78cbd82fc702ae439516efaa#npm:13.0.0"],\
           ["@semantic-release/git", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:10.0.1"],\
@@ -669,7 +669,7 @@ const RAW_RUNTIME_STATE =
           ["@babel/core", "npm:7.24.9"],\
           ["@babel/eslint-parser", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:7.24.8"],\
           ["@babel/preset-react", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:7.24.7"],\
-          ["@rushstack/eslint-patch", "npm:1.10.3"],\
+          ["@rushstack/eslint-patch", "npm:1.10.4"],\
           ["@semantic-release/changelog", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:6.0.3"],\
           ["@semantic-release/commit-analyzer", "virtual:9869a19b9cac301da62b60e4309d3a1bba47ad8222f27bd70feaff25a104c869d506dded55468019f6fee38fd7baa67c620ade0e78cbd82fc702ae439516efaa#npm:13.0.0"],\
           ["@semantic-release/git", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:10.0.1"],\
@@ -1481,10 +1481,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@rushstack/eslint-patch", [\
-      ["npm:1.10.3", {\
-        "packageLocation": "./.yarn/cache/@rushstack-eslint-patch-npm-1.10.3-2d77bbbd2e-ec75d23fba.zip/node_modules/@rushstack/eslint-patch/",\
+      ["npm:1.10.4", {\
+        "packageLocation": "./.yarn/cache/@rushstack-eslint-patch-npm-1.10.4-a760e177e3-de312bd7a3.zip/node_modules/@rushstack/eslint-patch/",\
         "packageDependencies": [\
-          ["@rushstack/eslint-patch", "npm:1.10.3"]\
+          ["@rushstack/eslint-patch", "npm:1.10.4"]\
         ],\
         "linkType": "HARD"\
       }]\
