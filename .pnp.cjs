@@ -53,7 +53,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-plugin-testing-library", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:5.11.1"],\
           ["prettier", "npm:3.3.3"],\
           ["semantic-release", "npm:24.1.2"],\
-          ["typescript", "patch:typescript@npm%3A5.6.2#optional!builtin<compat/typescript>::version=5.6.2&hash=8c6c40"]\
+          ["typescript", "patch:typescript@npm%3A5.6.3#optional!builtin<compat/typescript>::version=5.6.3&hash=8c6c40"]\
         ],\
         "linkType": "SOFT"\
       }]\
@@ -734,7 +734,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-plugin-testing-library", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:5.11.1"],\
           ["prettier", "npm:3.3.3"],\
           ["semantic-release", "npm:24.1.2"],\
-          ["typescript", "patch:typescript@npm%3A5.6.2#optional!builtin<compat/typescript>::version=5.6.2&hash=8c6c40"]\
+          ["typescript", "patch:typescript@npm%3A5.6.3#optional!builtin<compat/typescript>::version=5.6.3&hash=8c6c40"]\
         ],\
         "linkType": "SOFT"\
       }]\
@@ -4769,7 +4769,7 @@ const RAW_RUNTIME_STATE =
           ["eslint", "npm:8.57.1"],\
           ["semver", "npm:7.5.4"],\
           ["tsutils", null],\
-          ["typescript", "patch:typescript@npm%3A5.6.2#optional!builtin<compat/typescript>::version=5.6.2&hash=8c6c40"]\
+          ["typescript", "patch:typescript@npm%3A5.6.3#optional!builtin<compat/typescript>::version=5.6.3&hash=8c6c40"]\
         ],\
         "packagePeers": [\
           "@types/eslint",\
@@ -10870,10 +10870,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["typescript", [\
-      ["patch:typescript@npm%3A5.6.2#optional!builtin<compat/typescript>::version=5.6.2&hash=8c6c40", {\
-        "packageLocation": "./.yarn/cache/typescript-patch-9bf73ea0aa-94eb47e130.zip/node_modules/typescript/",\
+      ["patch:typescript@npm%3A5.6.3#optional!builtin<compat/typescript>::version=5.6.3&hash=8c6c40", {\
+        "packageLocation": "./.yarn/cache/typescript-patch-8964a48ba3-7c9d2e07c8.zip/node_modules/typescript/",\
         "packageDependencies": [\
-          ["typescript", "patch:typescript@npm%3A5.6.2#optional!builtin<compat/typescript>::version=5.6.2&hash=8c6c40"]\
+          ["typescript", "patch:typescript@npm%3A5.6.3#optional!builtin<compat/typescript>::version=5.6.3&hash=8c6c40"]\
         ],\
         "linkType": "HARD"\
       }]\
