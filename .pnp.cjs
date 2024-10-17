@@ -46,7 +46,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-plugin-import", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:2.29.1"],\
           ["eslint-plugin-jest", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:28.8.3"],\
           ["eslint-plugin-jest-dom", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:5.4.0"],\
-          ["eslint-plugin-jsx-a11y", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:6.9.0"],\
+          ["eslint-plugin-jsx-a11y", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:6.10.0"],\
           ["eslint-plugin-prettier", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:5.2.1"],\
           ["eslint-plugin-react", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:7.35.2"],\
           ["eslint-plugin-react-hooks", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:4.6.2"],\
@@ -745,7 +745,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-plugin-import", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:2.29.1"],\
           ["eslint-plugin-jest", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:28.8.3"],\
           ["eslint-plugin-jest-dom", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:5.4.0"],\
-          ["eslint-plugin-jsx-a11y", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:6.9.0"],\
+          ["eslint-plugin-jsx-a11y", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:6.10.0"],\
           ["eslint-plugin-prettier", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:5.2.1"],\
           ["eslint-plugin-react", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:7.35.2"],\
           ["eslint-plugin-react-hooks", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:4.6.2"],\
@@ -2998,20 +2998,19 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["axe-core", [\
-      ["npm:4.9.1", {\
-        "packageLocation": "./.yarn/cache/axe-core-npm-4.9.1-6b74f843b9-ac9e5a0c6f.zip/node_modules/axe-core/",\
+      ["npm:4.10.1", {\
+        "packageLocation": "./.yarn/cache/axe-core-npm-4.10.1-bbd04bc2a9-53d865efb7.zip/node_modules/axe-core/",\
         "packageDependencies": [\
-          ["axe-core", "npm:4.9.1"]\
+          ["axe-core", "npm:4.10.1"]\
         ],\
         "linkType": "HARD"\
       }]\
     ]],\
     ["axobject-query", [\
-      ["npm:3.1.1", {\
-        "packageLocation": "./.yarn/cache/axobject-query-npm-3.1.1-13705ce3c1-fff3175a22.zip/node_modules/axobject-query/",\
+      ["npm:4.1.0", {\
+        "packageLocation": "./.yarn/cache/axobject-query-npm-4.1.0-9703554323-c470e4f950.zip/node_modules/axobject-query/",\
         "packageDependencies": [\
-          ["axobject-query", "npm:3.1.1"],\
-          ["deep-equal", "npm:2.2.3"]\
+          ["axobject-query", "npm:4.1.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -4903,24 +4902,24 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["eslint-plugin-jsx-a11y", [\
-      ["npm:6.9.0", {\
-        "packageLocation": "./.yarn/cache/eslint-plugin-jsx-a11y-npm-6.9.0-be49ca57a2-72ac719ca9.zip/node_modules/eslint-plugin-jsx-a11y/",\
+      ["npm:6.10.0", {\
+        "packageLocation": "./.yarn/cache/eslint-plugin-jsx-a11y-npm-6.10.0-23c1439d6d-9f8e29a331.zip/node_modules/eslint-plugin-jsx-a11y/",\
         "packageDependencies": [\
-          ["eslint-plugin-jsx-a11y", "npm:6.9.0"]\
+          ["eslint-plugin-jsx-a11y", "npm:6.10.0"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:6.9.0", {\
-        "packageLocation": "./.yarn/__virtual__/eslint-plugin-jsx-a11y-virtual-870a8a1dd1/0/cache/eslint-plugin-jsx-a11y-npm-6.9.0-be49ca57a2-72ac719ca9.zip/node_modules/eslint-plugin-jsx-a11y/",\
+      ["virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:6.10.0", {\
+        "packageLocation": "./.yarn/__virtual__/eslint-plugin-jsx-a11y-virtual-8402503205/0/cache/eslint-plugin-jsx-a11y-npm-6.10.0-23c1439d6d-9f8e29a331.zip/node_modules/eslint-plugin-jsx-a11y/",\
         "packageDependencies": [\
-          ["eslint-plugin-jsx-a11y", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:6.9.0"],\
+          ["eslint-plugin-jsx-a11y", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:6.10.0"],\
           ["@types/eslint", null],\
           ["aria-query", "npm:5.1.3"],\
           ["array-includes", "npm:3.1.8"],\
           ["array.prototype.flatmap", "npm:1.3.2"],\
           ["ast-types-flow", "npm:0.0.8"],\
-          ["axe-core", "npm:4.9.1"],\
-          ["axobject-query", "npm:3.1.1"],\
+          ["axe-core", "npm:4.10.1"],\
+          ["axobject-query", "npm:4.1.0"],\
           ["damerau-levenshtein", "npm:1.0.8"],\
           ["emoji-regex", "npm:9.2.2"],\
           ["es-iterator-helpers", "npm:1.0.19"],\
