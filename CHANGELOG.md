@@ -1,3 +1,10 @@
+## [10.1.36](https://github.com/brummelte/eslint-config/compare/v10.1.35...v10.1.36) (2024-12-09)
+
+
+### Bug Fixes
+
+* **deps:** update babel monorepo ([4fd9b7a](https://github.com/brummelte/eslint-config/commit/4fd9b7a3135d0ca2e234d7569494c69fcd66d2e0))
+
 ## [10.1.35](https://github.com/brummelte/eslint-config/compare/v10.1.34...v10.1.35) (2024-12-09)
 
 
