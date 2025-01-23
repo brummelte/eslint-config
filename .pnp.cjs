@@ -2322,7 +2322,7 @@ const RAW_RUNTIME_STATE =
           ["chalk", "npm:3.0.0"],\
           ["ci-info", "npm:4.0.0"],\
           ["clipanion", "virtual:e74e0c7face772469c5d9d70719bbd83a0b053c4a74b651bfc2a4f7de3d205468e1258219594675d4ae727005789cab9cdeba038300276cac6c939326b4ca52c#npm:4.0.0-rc.2"],\
-          ["cross-spawn", "npm:7.0.3"],\
+          ["cross-spawn", "npm:7.0.6"],\
           ["diff", "npm:5.1.0"],\
           ["dotenv", "npm:16.3.1"],\
           ["fast-glob", "npm:3.2.4"],\
@@ -2440,7 +2440,7 @@ const RAW_RUNTIME_STATE =
           ["@yarnpkg/parsers", "npm:3.0.2"],\
           ["chalk", "npm:3.0.0"],\
           ["clipanion", "virtual:e74e0c7face772469c5d9d70719bbd83a0b053c4a74b651bfc2a4f7de3d205468e1258219594675d4ae727005789cab9cdeba038300276cac6c939326b4ca52c#npm:4.0.0-rc.2"],\
-          ["cross-spawn", "npm:7.0.3"],\
+          ["cross-spawn", "npm:7.0.6"],\
           ["fast-glob", "npm:3.2.4"],\
           ["micromatch", "npm:4.0.8"],\
           ["tslib", "npm:2.4.0"]\
@@ -3667,10 +3667,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["cross-spawn", [\
-      ["npm:7.0.3", {\
-        "packageLocation": "./.yarn/cache/cross-spawn-npm-7.0.3-e4ff3e65b3-5738c31238.zip/node_modules/cross-spawn/",\
+      ["npm:7.0.6", {\
+        "packageLocation": "./.yarn/cache/cross-spawn-npm-7.0.6-264bddf921-053ea8b213.zip/node_modules/cross-spawn/",\
         "packageDependencies": [\
-          ["cross-spawn", "npm:7.0.3"],\
+          ["cross-spawn", "npm:7.0.6"],\
           ["path-key", "npm:3.1.1"],\
           ["shebang-command", "npm:2.0.0"],\
           ["which", "npm:2.0.2"]\
@@ -4697,7 +4697,7 @@ const RAW_RUNTIME_STATE =
           ["@ungap/structured-clone", "npm:1.2.0"],\
           ["ajv", "npm:6.12.5"],\
           ["chalk", "npm:4.1.0"],\
-          ["cross-spawn", "npm:7.0.3"],\
+          ["cross-spawn", "npm:7.0.6"],\
           ["debug", "virtual:1ff4b5f90832ba0a9c93ba1223af226e44ba70c1126a3740d93562b97bc36544e896a5e95908196f7458713e6a6089a34bfc67362fc6df7fa093bd06c878be47#npm:4.3.2"],\
           ["doctrine", "npm:3.0.0"],\
           ["escape-string-regexp", "npm:4.0.0"],\
@@ -5304,7 +5304,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/cache/execa-npm-5.0.0-4ee568fb49-e110add7ca.zip/node_modules/execa/",\
         "packageDependencies": [\
           ["execa", "npm:5.0.0"],\
-          ["cross-spawn", "npm:7.0.3"],\
+          ["cross-spawn", "npm:7.0.6"],\
           ["get-stream", "npm:6.0.0"],\
           ["human-signals", "npm:2.1.0"],\
           ["is-stream", "npm:2.0.0"],\
@@ -5320,7 +5320,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/cache/execa-npm-8.0.1-0211bd404c-2c52d8775f.zip/node_modules/execa/",\
         "packageDependencies": [\
           ["execa", "npm:8.0.1"],\
-          ["cross-spawn", "npm:7.0.3"],\
+          ["cross-spawn", "npm:7.0.6"],\
           ["get-stream", "npm:8.0.1"],\
           ["human-signals", "npm:5.0.0"],\
           ["is-stream", "npm:3.0.0"],\
@@ -5337,7 +5337,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["execa", "npm:9.1.0"],\
           ["@sindresorhus/merge-streams", "npm:4.0.0"],\
-          ["cross-spawn", "npm:7.0.3"],\
+          ["cross-spawn", "npm:7.0.6"],\
           ["figures", "npm:6.1.0"],\
           ["get-stream", "npm:9.0.1"],\
           ["human-signals", "npm:7.0.0"],\
@@ -5584,7 +5584,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/cache/foreground-child-npm-3.1.1-77e78ed774-9700a02856.zip/node_modules/foreground-child/",\
         "packageDependencies": [\
           ["foreground-child", "npm:3.1.1"],\
-          ["cross-spawn", "npm:7.0.3"],\
+          ["cross-spawn", "npm:7.0.6"],\
           ["signal-exit", "npm:4.1.0"]\
         ],\
         "linkType": "HARD"\
