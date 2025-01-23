@@ -1,3 +1,10 @@
+## [10.1.38](https://github.com/brummelte/eslint-config/compare/v10.1.37...v10.1.38) (2025-01-23)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-jsx-a11y to ^6.10.2 ([c82ff35](https://github.com/brummelte/eslint-config/commit/c82ff35f2653bb2c0d693cd7b300ebf9301af412))
+
 ## [10.1.37](https://github.com/brummelte/eslint-config/compare/v10.1.36...v10.1.37) (2025-01-23)
 
 
