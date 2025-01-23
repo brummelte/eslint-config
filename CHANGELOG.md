@@ -1,3 +1,13 @@
+## [10.1.37](https://github.com/brummelte/eslint-config/compare/v10.1.36...v10.1.37) (2025-01-23)
+
+
+### Bug Fixes
+
+* **deps:** update babel monorepo ([ab818f7](https://github.com/brummelte/eslint-config/commit/ab818f7e140a5a42bc8ea5791642672c0273a311))
+* **deps:** update dependency eslint-plugin-import to v2.31.0 ([ace662b](https://github.com/brummelte/eslint-config/commit/ace662b800ecbb63cdc6eda6577ca3943a1fffd6))
+* **deps:** update dependency eslint-plugin-jest-dom to ^5.5.0 ([c7af24c](https://github.com/brummelte/eslint-config/commit/c7af24ce04c7a53408a5c4aa6946fe1abada9209))
+* **deps:** update dependency eslint-plugin-react-hooks to v5 ([425a1cb](https://github.com/brummelte/eslint-config/commit/425a1cb315869114ab2bc1d259ba4b79a39b592c))
+
 ## [10.1.36](https://github.com/brummelte/eslint-config/compare/v10.1.35...v10.1.36) (2024-12-09)
 
 
