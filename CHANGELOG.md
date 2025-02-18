@@ -1,3 +1,13 @@
+## [10.1.45](https://github.com/brummelte/eslint-config/compare/v10.1.44...v10.1.45) (2025-02-18)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-prettier to v10 ([f612007](https://github.com/brummelte/eslint-config/commit/f612007098eb721c8aecdc99e772665088e56f5e))
+* **deps:** update dependency eslint-plugin-react to ^7.37.4 ([76f8967](https://github.com/brummelte/eslint-config/commit/76f89674f5276a99a54456328044cd7e0797ab90))
+* **deps:** update dependency eslint-plugin-testing-library to v7 ([ac818be](https://github.com/brummelte/eslint-config/commit/ac818bede700cb5c659736abf9115b85b13b7b05))
+* **deps:** update dependency prettier to ^3.5.0 ([274495c](https://github.com/brummelte/eslint-config/commit/274495c48ee87354f02075a446812e74f6653b35))
+
 ## [10.1.44](https://github.com/brummelte/eslint-config/compare/v10.1.43...v10.1.44) (2025-02-15)
 
 
