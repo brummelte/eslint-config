@@ -1,3 +1,10 @@
+## [10.1.47](https://github.com/brummelte/eslint-config/compare/v10.1.46...v10.1.47) (2025-02-21)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @babel/core to ^7.26.9 ([a40b7ad](https://github.com/brummelte/eslint-config/commit/a40b7adc78a5afdeec06c0cb451aea6049231365))
+
 ## [10.1.46](https://github.com/brummelte/eslint-config/compare/v10.1.45...v10.1.46) (2025-02-20)
 
 
