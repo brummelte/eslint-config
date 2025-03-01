@@ -1,3 +1,10 @@
+## [10.1.48](https://github.com/brummelte/eslint-config/compare/v10.1.47...v10.1.48) (2025-03-01)
+
+
+### Bug Fixes
+
+* **deps:** update dependency prettier to ^3.5.2 ([754cdc3](https://github.com/brummelte/eslint-config/commit/754cdc3895de4c3a32c160a52a060b6e095d0f35))
+
 ## [10.1.47](https://github.com/brummelte/eslint-config/compare/v10.1.46...v10.1.47) (2025-02-21)
 
 
