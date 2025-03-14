@@ -128,7 +128,7 @@ const RAW_RUNTIME_STATE =
           ["@babel/generator", "npm:7.26.9"],\
           ["@babel/helper-compilation-targets", "npm:7.26.5"],\
           ["@babel/helper-module-transforms", "virtual:12b18cb40d5c617053821811de491a189d02da1d08d58f7656d9f9ecb29c954457e5dfc20f3916931f9e19b353a25ee0340013ea9e29eab98af42567b5bf0497#npm:7.26.0"],\
-          ["@babel/helpers", "npm:7.26.9"],\
+          ["@babel/helpers", "npm:7.26.10"],\
           ["@babel/parser", "npm:7.26.9"],\
           ["@babel/template", "npm:7.26.9"],\
           ["@babel/traverse", "npm:7.26.9"],\
@@ -301,12 +301,12 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@babel/helpers", [\
-      ["npm:7.26.9", {\
-        "packageLocation": "./.yarn/cache/@babel-helpers-npm-7.26.9-629d8a6154-3d4dbc4a33.zip/node_modules/@babel/helpers/",\
+      ["npm:7.26.10", {\
+        "packageLocation": "./.yarn/cache/@babel-helpers-npm-7.26.10-4eb1d94ec4-f99e1836bc.zip/node_modules/@babel/helpers/",\
         "packageDependencies": [\
-          ["@babel/helpers", "npm:7.26.9"],\
+          ["@babel/helpers", "npm:7.26.10"],\
           ["@babel/template", "npm:7.26.9"],\
-          ["@babel/types", "npm:7.26.9"]\
+          ["@babel/types", "npm:7.26.10"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -552,6 +552,15 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@babel/types", [\
+      ["npm:7.26.10", {\
+        "packageLocation": "./.yarn/cache/@babel-types-npm-7.26.10-1df6b33135-7a7f83f568.zip/node_modules/@babel/types/",\
+        "packageDependencies": [\
+          ["@babel/types", "npm:7.26.10"],\
+          ["@babel/helper-string-parser", "npm:7.25.9"],\
+          ["@babel/helper-validator-identifier", "npm:7.25.9"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
       ["npm:7.26.3", {\
         "packageLocation": "./.yarn/cache/@babel-types-npm-7.26.3-348c6bde15-966c5242c5.zip/node_modules/@babel/types/",\
         "packageDependencies": [\
