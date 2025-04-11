@@ -498,11 +498,11 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@babel/runtime", [\
-      ["npm:7.16.7", {\
-        "packageLocation": "./.yarn/cache/@babel-runtime-npm-7.16.7-62d4d1151f-db68a6cd66.zip/node_modules/@babel/runtime/",\
+      ["npm:7.26.10", {\
+        "packageLocation": "./.yarn/cache/@babel-runtime-npm-7.26.10-d01a90d446-6dc6d88c79.zip/node_modules/@babel/runtime/",\
         "packageDependencies": [\
-          ["@babel/runtime", "npm:7.16.7"],\
-          ["regenerator-runtime", "npm:0.13.7"]\
+          ["@babel/runtime", "npm:7.26.10"],\
+          ["regenerator-runtime", "npm:0.14.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -4953,7 +4953,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/__virtual__/eslint-plugin-jest-dom-virtual-d6c972b6ab/0/cache/eslint-plugin-jest-dom-npm-5.5.0-2554d97d16-3daa959ae2.zip/node_modules/eslint-plugin-jest-dom/",\
         "packageDependencies": [\
           ["eslint-plugin-jest-dom", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:5.5.0"],\
-          ["@babel/runtime", "npm:7.16.7"],\
+          ["@babel/runtime", "npm:7.26.10"],\
           ["@testing-library/dom", null],\
           ["@types/eslint", null],\
           ["@types/testing-library__dom", null],\
@@ -9735,10 +9735,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["regenerator-runtime", [\
-      ["npm:0.13.7", {\
-        "packageLocation": "./.yarn/cache/regenerator-runtime-npm-0.13.7-41bcbe64ea-4731a13643.zip/node_modules/regenerator-runtime/",\
+      ["npm:0.14.1", {\
+        "packageLocation": "./.yarn/cache/regenerator-runtime-npm-0.14.1-a6c97c609a-1b16eb2c4b.zip/node_modules/regenerator-runtime/",\
         "packageDependencies": [\
-          ["regenerator-runtime", "npm:0.13.7"]\
+          ["regenerator-runtime", "npm:0.14.1"]\
         ],\
         "linkType": "HARD"\
       }]\
