@@ -1,3 +1,10 @@
+## [10.1.67](https://github.com/brummelte/eslint-config/compare/v10.1.66...v10.1.67) (2025-06-10)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @babel/eslint-parser to ^7.27.5 ([1cdb645](https://github.com/brummelte/eslint-config/commit/1cdb645d97c0f4dc18f9b9d98362f91b1f372bcf))
+
 ## [10.1.66](https://github.com/brummelte/eslint-config/compare/v10.1.65...v10.1.66) (2025-06-07)
 
 
