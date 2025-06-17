@@ -1,3 +1,11 @@
+## [10.1.69](https://github.com/brummelte/eslint-config/compare/v10.1.68...v10.1.69) (2025-06-17)
+
+
+### Bug Fixes
+
+* **deps:** update babel monorepo ([3676b35](https://github.com/brummelte/eslint-config/commit/3676b35589526cf9fdb851483741bc3e2fd98994))
+* **deps:** update dependency eslint-plugin-testing-library to ^7.5.1 ([6076f98](https://github.com/brummelte/eslint-config/commit/6076f98c472debf1f91069a7a3d12cada3b0df15))
+
 ## [10.1.68](https://github.com/brummelte/eslint-config/compare/v10.1.67...v10.1.68) (2025-06-14)
 
 
