@@ -22,7 +22,7 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "eslint": ">=9.20.1"
+    "eslint": ">=9.28.0"
   },
   "dependencies": {
     "@babel/core": "^7.27.4",
