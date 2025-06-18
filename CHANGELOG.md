@@ -1,3 +1,10 @@
+## [10.1.71](https://github.com/brummelte/eslint-config/compare/v10.1.70...v10.1.71) (2025-06-18)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-testing-library to ^7.5.2 ([dd5e767](https://github.com/brummelte/eslint-config/commit/dd5e767953382ddee5371c2b45d8520094da01d1))
+
 ## [10.1.70](https://github.com/brummelte/eslint-config/compare/v10.1.69...v10.1.70) (2025-06-18)
 
 
