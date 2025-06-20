@@ -1,3 +1,10 @@
+## [10.1.72](https://github.com/brummelte/eslint-config/compare/v10.1.71...v10.1.72) (2025-06-20)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-jest to ^28.13.5 ([523e32d](https://github.com/brummelte/eslint-config/commit/523e32db846ab4e2b86fae19380c94f6cdf5ec42))
+
 ## [10.1.71](https://github.com/brummelte/eslint-config/compare/v10.1.70...v10.1.71) (2025-06-18)
 
 
