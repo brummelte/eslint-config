@@ -29,7 +29,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["@babel/core", "npm:7.28.0"],\
-          ["@babel/eslint-parser", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:7.27.5"],\
+          ["@babel/eslint-parser", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:7.28.0"],\
           ["@babel/preset-react", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:7.27.1"],\
           ["@brummelte/eslint-config", "workspace:."],\
           ["@rushstack/eslint-patch", "npm:1.12.0"],\
@@ -145,18 +145,18 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@babel/eslint-parser", [\
-      ["npm:7.27.5", {\
-        "packageLocation": "./.yarn/cache/@babel-eslint-parser-npm-7.27.5-eb2bb8d9d4-c1159946c0.zip/node_modules/@babel/eslint-parser/",\
+      ["npm:7.28.0", {\
+        "packageLocation": "./.yarn/cache/@babel-eslint-parser-npm-7.28.0-a4bf882695-ca25b8ce38.zip/node_modules/@babel/eslint-parser/",\
         "packageDependencies": [\
-          ["@babel/eslint-parser", "npm:7.27.5"]\
+          ["@babel/eslint-parser", "npm:7.28.0"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:7.27.5", {\
-        "packageLocation": "./.yarn/__virtual__/@babel-eslint-parser-virtual-afdb3dfc4a/0/cache/@babel-eslint-parser-npm-7.27.5-eb2bb8d9d4-c1159946c0.zip/node_modules/@babel/eslint-parser/",\
+      ["virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:7.28.0", {\
+        "packageLocation": "./.yarn/__virtual__/@babel-eslint-parser-virtual-954fd98525/0/cache/@babel-eslint-parser-npm-7.28.0-a4bf882695-ca25b8ce38.zip/node_modules/@babel/eslint-parser/",\
         "packageDependencies": [\
           ["@babel/core", "npm:7.28.0"],\
-          ["@babel/eslint-parser", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:7.27.5"],\
+          ["@babel/eslint-parser", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:7.28.0"],\
           ["@nicolo-ribaudo/eslint-scope-5-internals", "npm:5.1.1-v1"],\
           ["@types/babel__core", null],\
           ["@types/eslint", null],\
@@ -577,7 +577,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["@babel/core", "npm:7.28.0"],\
-          ["@babel/eslint-parser", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:7.27.5"],\
+          ["@babel/eslint-parser", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:7.28.0"],\
           ["@babel/preset-react", "virtual:751fc4c7d1debb5861688caedb34430be81fd9525cdc4eac55f3a211178db10575403edf61b973f9aabc3390f245107df67966b0392c530f17da371e756fa4a8#npm:7.27.1"],\
           ["@brummelte/eslint-config", "workspace:."],\
           ["@rushstack/eslint-patch", "npm:1.12.0"],\
