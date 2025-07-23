@@ -1,3 +1,11 @@
+## [10.1.81](https://github.com/brummelte/eslint-config/compare/v10.1.80...v10.1.81) (2025-07-23)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @rushstack/eslint-patch to ^1.12.0 ([2caafea](https://github.com/brummelte/eslint-config/commit/2caafea113303ea463b004d9a0155648234c6002))
+* **deps:** update dependency eslint-plugin-import to v2.32.0 ([4bb99d6](https://github.com/brummelte/eslint-config/commit/4bb99d688739de38a428cbf2211df4f63e9e7180))
+
 ## [10.1.80](https://github.com/brummelte/eslint-config/compare/v10.1.79...v10.1.80) (2025-07-23)
 
 
