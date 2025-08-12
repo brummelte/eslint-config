@@ -23,6 +23,17 @@
         "devDependencies"
       ],
       "automerge": true
+    },
+    {
+      "matchPackageNames": [
+        "eslint-plugin-prettier"
+      ],
+      "matchDepTypes": [
+        "dependencies"
+      ],
+      "allowedVersions": "5.3.1",
+      "rangeStrategy": "pin",
+      "automerge": false
     }
   ]
 }
