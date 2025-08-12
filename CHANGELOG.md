@@ -1,3 +1,10 @@
+## [10.1.88](https://github.com/brummelte/eslint-config/compare/v10.1.87...v10.1.88) (2025-08-12)
+
+
+### Bug Fixes
+
+* force eslint-plugin-prettier version to 5.3.1 ([b1b1ad0](https://github.com/brummelte/eslint-config/commit/b1b1ad0268bad224f07b17849cd7a6ddcee681fd))
+
 ## [10.1.87](https://github.com/brummelte/eslint-config/compare/v10.1.86...v10.1.87) (2025-08-04)
 
 
