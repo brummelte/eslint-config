@@ -430,7 +430,7 @@ __metadata:
     semantic-release: "npm:^24.2.7"
     typescript: "npm:^5.9.2"
   peerDependencies:
-    eslint: ">=9.20.1"
+    eslint: ">=9.33.0"
   languageName: unknown
   linkType: soft
 
