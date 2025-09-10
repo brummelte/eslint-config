@@ -425,7 +425,7 @@ __metadata:
     eslint-plugin-prettier: "npm:5.3.1"
     eslint-plugin-react: "npm:^7.37.5"
     eslint-plugin-react-hooks: "npm:^5.2.0"
-    eslint-plugin-testing-library: "npm:^7.6.7"
+    eslint-plugin-testing-library: "npm:^7.6.8"
     prettier: "npm:^3.6.2"
     semantic-release: "npm:^24.2.7"
     typescript: "npm:^5.9.2"
@@ -4266,7 +4266,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-testing-library@npm:^7.6.7":
+"eslint-plugin-testing-library@npm:^7.6.8":
   version: 7.6.8
   resolution: "eslint-plugin-testing-library@npm:7.6.8"
   dependencies:
