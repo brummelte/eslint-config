@@ -1,3 +1,11 @@
+## [10.1.95](https://github.com/brummelte/eslint-config/compare/v10.1.94...v10.1.95) (2025-09-24)
+
+
+### Bug Fixes
+
+* specify correct eslint version in peerDependencies ([cde867c](https://github.com/brummelte/eslint-config/commit/cde867c4f1f6e984cc9f440518f427d6944ac1c7))
+* use eslint-import-resolver-typescript ([8f73986](https://github.com/brummelte/eslint-config/commit/8f7398643f22b0628e9016d4edb49c6688dc7b3f))
+
 ## [10.1.94](https://github.com/brummelte/eslint-config/compare/v10.1.93...v10.1.94) (2025-09-14)
 
 
