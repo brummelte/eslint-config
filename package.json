@@ -8,7 +8,7 @@
     "eslint",
     "eslintconfig"
   ],
-  "packageManager": "yarn@4.9.4",
+  "packageManager": "yarn@4.10.2",
   "scripts": {
     "eslint-check": "eslint --print-config index.js | eslint-config-prettier-check"
   },
