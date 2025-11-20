@@ -2861,7 +2861,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/cache/@yarnpkg-parsers-npm-3.0.3-68ed64534a-70c2fa011b.zip/node_modules/@yarnpkg/parsers/",\
         "packageDependencies": [\
           ["@yarnpkg/parsers", "npm:3.0.3"],\
-          ["js-yaml", "npm:3.13.1"],\
+          ["js-yaml", "npm:3.14.2"],\
           ["tslib", "npm:2.4.0"]\
         ],\
         "linkType": "HARD"\
@@ -7921,12 +7921,12 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["js-yaml", [\
-      ["npm:3.13.1", {\
-        "packageLocation": "./.yarn/cache/js-yaml-npm-3.13.1-3a28ff3b75-6a4f78b998.zip/node_modules/js-yaml/",\
+      ["npm:3.14.2", {\
+        "packageLocation": "./.yarn/cache/js-yaml-npm-3.14.2-debd9d20c3-3261f25912.zip/node_modules/js-yaml/",\
         "packageDependencies": [\
           ["argparse", "npm:1.0.10"],\
           ["esprima", "npm:4.0.1"],\
-          ["js-yaml", "npm:3.13.1"]\
+          ["js-yaml", "npm:3.14.2"]\
         ],\
         "linkType": "HARD"\
       }],\
