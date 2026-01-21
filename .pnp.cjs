@@ -1883,7 +1883,7 @@ const RAW_RUNTIME_STATE =
           ["conventional-commits-parser", "npm:6.0.0"],\
           ["debug", "virtual:e426afeacf914b5bf58dae7cf7cd76bf78be254e03b94e4a92e9c2b0226626f65c7431ea500d2321d9c0a431f45ed64b60ab02116d77b5064e6e0918b0a30bca#npm:4.3.4"],\
           ["import-from-esm", "npm:1.2.1"],\
-          ["lodash-es", "npm:4.17.21"],\
+          ["lodash-es", "npm:4.17.23"],\
           ["micromatch", "npm:4.0.8"],\
           ["semantic-release", "npm:24.2.9"]\
         ],\
@@ -1904,7 +1904,7 @@ const RAW_RUNTIME_STATE =
           ["conventional-commits-parser", "npm:6.0.0"],\
           ["debug", "virtual:e426afeacf914b5bf58dae7cf7cd76bf78be254e03b94e4a92e9c2b0226626f65c7431ea500d2321d9c0a431f45ed64b60ab02116d77b5064e6e0918b0a30bca#npm:4.3.4"],\
           ["import-from-esm", "npm:2.0.0"],\
-          ["lodash-es", "npm:4.17.21"],\
+          ["lodash-es", "npm:4.17.23"],\
           ["micromatch", "npm:4.0.8"],\
           ["semantic-release", "npm:24.2.9"]\
         ],\
@@ -1993,7 +1993,7 @@ const RAW_RUNTIME_STATE =
           ["http-proxy-agent", "npm:7.0.0"],\
           ["https-proxy-agent", "npm:7.0.2"],\
           ["issue-parser", "npm:7.0.0"],\
-          ["lodash-es", "npm:4.17.21"],\
+          ["lodash-es", "npm:4.17.23"],\
           ["mime", "npm:4.0.1"],\
           ["p-filter", "npm:4.1.0"],\
           ["semantic-release", "npm:24.2.9"],\
@@ -2021,7 +2021,7 @@ const RAW_RUNTIME_STATE =
           ["http-proxy-agent", "npm:7.0.0"],\
           ["https-proxy-agent", "npm:7.0.2"],\
           ["issue-parser", "npm:7.0.0"],\
-          ["lodash-es", "npm:4.17.21"],\
+          ["lodash-es", "npm:4.17.23"],\
           ["mime", "npm:4.0.1"],\
           ["p-filter", "npm:4.1.0"],\
           ["semantic-release", "npm:24.2.9"],\
@@ -2052,7 +2052,7 @@ const RAW_RUNTIME_STATE =
           ["aggregate-error", "npm:5.0.0"],\
           ["execa", "npm:9.1.0"],\
           ["fs-extra", "npm:11.1.1"],\
-          ["lodash-es", "npm:4.17.21"],\
+          ["lodash-es", "npm:4.17.23"],\
           ["nerf-dart", "npm:1.0.0"],\
           ["normalize-url", "npm:8.0.0"],\
           ["npm", "npm:10.9.3"],\
@@ -2098,7 +2098,7 @@ const RAW_RUNTIME_STATE =
           ["get-stream", "npm:7.0.1"],\
           ["import-from-esm", "npm:1.2.1"],\
           ["into-stream", "npm:7.0.0"],\
-          ["lodash-es", "npm:4.17.21"],\
+          ["lodash-es", "npm:4.17.23"],\
           ["read-package-up", "npm:11.0.0"],\
           ["semantic-release", "npm:24.2.9"]\
         ],\
@@ -2121,7 +2121,7 @@ const RAW_RUNTIME_STATE =
           ["get-stream", "npm:7.0.1"],\
           ["import-from-esm", "npm:2.0.0"],\
           ["into-stream", "npm:7.0.0"],\
-          ["lodash-es", "npm:4.17.21"],\
+          ["lodash-es", "npm:4.17.23"],\
           ["read-package-up", "npm:11.0.0"],\
           ["semantic-release", "npm:24.2.9"]\
         ],\
@@ -8585,10 +8585,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["lodash-es", [\
-      ["npm:4.17.21", {\
-        "packageLocation": "./.yarn/cache/lodash-es-npm-4.17.21-b45832dfce-fb407355f7.zip/node_modules/lodash-es/",\
+      ["npm:4.17.23", {\
+        "packageLocation": "./.yarn/cache/lodash-es-npm-4.17.23-b4279789e6-3150fb6660.zip/node_modules/lodash-es/",\
         "packageDependencies": [\
-          ["lodash-es", "npm:4.17.21"]\
+          ["lodash-es", "npm:4.17.23"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -10702,7 +10702,7 @@ const RAW_RUNTIME_STATE =
           ["hook-std", "npm:4.0.0"],\
           ["hosted-git-info", "npm:8.0.0"],\
           ["import-from-esm", "npm:2.0.0"],\
-          ["lodash-es", "npm:4.17.21"],\
+          ["lodash-es", "npm:4.17.23"],\
           ["marked", "npm:15.0.12"],\
           ["marked-terminal", "virtual:15714e8662bba8efa1dad8001b93857491e6613f4b40badd5663ddecaf7c4e95569966eae3e099a55e2d2fd35c4a71c8ac0e1dff5733e3cf253b101a64993d97#npm:7.3.0"],\
           ["micromatch", "npm:4.0.8"],\
