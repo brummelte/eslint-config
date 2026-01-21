@@ -1847,7 +1847,7 @@ const RAW_RUNTIME_STATE =
           ["@types/semantic-release", null],\
           ["aggregate-error", "npm:3.1.0"],\
           ["fs-extra", "npm:11.1.1"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["semantic-release", "npm:24.2.9"]\
         ],\
         "packagePeers": [\
@@ -1949,7 +1949,7 @@ const RAW_RUNTIME_STATE =
           ["debug", "virtual:e426afeacf914b5bf58dae7cf7cd76bf78be254e03b94e4a92e9c2b0226626f65c7431ea500d2321d9c0a431f45ed64b60ab02116d77b5064e6e0918b0a30bca#npm:4.3.4"],\
           ["dir-glob", "npm:3.0.1"],\
           ["execa", "npm:5.0.0"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["micromatch", "npm:4.0.8"],\
           ["p-reduce", "npm:2.1.0"],\
           ["semantic-release", "npm:24.2.9"]\
@@ -2944,7 +2944,7 @@ const RAW_RUNTIME_STATE =
           ["fast-glob", "npm:3.2.4"],\
           ["got", "npm:11.8.0"],\
           ["hpagent", "npm:1.2.0"],\
-          ["lodash", "npm:4.17.21"],\
+          ["lodash", "npm:4.17.23"],\
           ["micromatch", "npm:4.0.8"],\
           ["p-limit", "npm:2.2.1"],\
           ["semver", "npm:7.5.4"],\
@@ -8576,10 +8576,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["lodash", [\
-      ["npm:4.17.21", {\
-        "packageLocation": "./.yarn/cache/lodash-npm-4.17.21-6382451519-d8cbea072b.zip/node_modules/lodash/",\
+      ["npm:4.17.23", {\
+        "packageLocation": "./.yarn/cache/lodash-npm-4.17.23-50bdb1c01a-1264a90469.zip/node_modules/lodash/",\
         "packageDependencies": [\
-          ["lodash", "npm:4.17.21"]\
+          ["lodash", "npm:4.17.23"]\
         ],\
         "linkType": "HARD"\
       }]\
