@@ -26,8 +26,8 @@
   },
   "dependencies": {
     "@babel/core": "^7.28.6",
-    "@babel/eslint-parser": "^7.28.6",
-    "@babel/preset-react": "^7.28.5",
+    "@babel/eslint-parser": "^7.29.7",
+    "@babel/preset-react": "^7.29.7",
     "@rushstack/eslint-patch": "^1.15.0",
     "eslint-config-prettier": "^10.1.8",
     "eslint-import-resolver-node": "^0.3.10",
